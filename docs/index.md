@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-02**|**Tunable high-resolution synthetic aperture radar imaging**|Arnold D. Kim et.al.|[2208.01596v1](http://arxiv.org/abs/2208.01596v1)|null|
 |**2022-07-26**|**Spline-Shaped Microstrip Edge-Fed Antenna for 77 GHz Automotive Radar Systems**|Marco Salucci et.al.|[2208.00841v1](http://arxiv.org/abs/2208.00841v1)|null|
 |**2022-07-22**|**Simulation and Measurement of Human Respiration and Heartbeat with Millimeter- Wave Radar**|Yuxuan Hu et.al.|[2208.00837v1](http://arxiv.org/abs/2208.00837v1)|null|
 |**2022-08-01**|**Synthetic Aperture Radar Doppler Tomography Reveals Details of Undiscovered High-Resolution Internal Structure of the Great Pyramid of Giza**|Filippo Biondi et.al.|[2208.00811v1](http://arxiv.org/abs/2208.00811v1)|null|
