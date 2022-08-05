@@ -2,6 +2,8 @@
 
 ## Radar
 
+- 2022-08-04, **A Sequential MUSIC algorithm for Scatterers Detection 2 in SAR Tomography Enhanced by a Robust Covariance 3 Estimator**, Ahmad Naghavi et.al., Paper: [http://arxiv.org/abs/2208.02644v1](http://arxiv.org/abs/2208.02644v1)
+- 2022-08-04, **Radar Imaging Based on IEEE 802.11ad Waveform in V2I Communications**, Geonho Han et.al., Paper: [http://arxiv.org/abs/2208.02473v1](http://arxiv.org/abs/2208.02473v1)
 - 2022-08-03, **Joint Beamforming Design for RIS-Assisted Integrated Sensing and Communication Systems**, Honghao Luo et.al., Paper: [http://arxiv.org/abs/2208.01854v1](http://arxiv.org/abs/2208.01854v1)
 - 2022-08-03, **EMC2A-Net: An Efficient Multibranch Cross-channel Attention Network for SAR Target Classification**, Xiang Yu et.al., Paper: [http://arxiv.org/abs/2208.01836v1](http://arxiv.org/abs/2208.01836v1)
 - 2022-08-02, **Tunable high-resolution synthetic aperture radar imaging**, Arnold D. Kim et.al., Paper: [http://arxiv.org/abs/2208.01596v1](http://arxiv.org/abs/2208.01596v1)
@@ -18,6 +20,7 @@
 
 ## SLAM
 
+- 2022-08-04, **SROS2: Usable Cyber Security Tools for ROS 2**, Victor Mayoral Vilches et.al., Paper: [http://arxiv.org/abs/2208.02615v1](http://arxiv.org/abs/2208.02615v1)
 - 2022-08-03, **Evaluation and comparison of eight popular Lidar and Visual SLAM algorithms**, Bharath Garigipati et.al., Paper: [http://arxiv.org/abs/2208.02063v1](http://arxiv.org/abs/2208.02063v1)
 - 2022-08-02, **Present and Future of SLAM in Extreme Underground Environments**, Kamak Ebadi et.al., Paper: [http://arxiv.org/abs/2208.01787v1](http://arxiv.org/abs/2208.01787v1)
 - 2022-08-01, **Visual-Inertial SLAM with Tightly-Coupled Dropout-Tolerant GPS Fusion**, Simon Boche et.al., Paper: [http://arxiv.org/abs/2208.00709v1](http://arxiv.org/abs/2208.00709v1)
