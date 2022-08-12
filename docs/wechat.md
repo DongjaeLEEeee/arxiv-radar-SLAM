@@ -2,6 +2,8 @@
 
 ## Radar
 
+- 2022-08-11, **AI-Powered Non-Contact In-Home Gait Monitoring and Activity Recognition System Based on mm-Wave FMCW Radar and Cloud Computing**, Hajar Abedi et.al., Paper: [http://arxiv.org/abs/2208.05905v1](http://arxiv.org/abs/2208.05905v1)
+- 2022-08-11, **Covert Beamforming Design for Integrated Radar Sensing and Communication Systems**, Shuai Ma et.al., Paper: [http://arxiv.org/abs/2208.05878v1](http://arxiv.org/abs/2208.05878v1)
 - 2022-08-09, **Reconfigurable Intelligent Surface Assisted NOMA Empowered Integrated Sensing and Communication**, Jiakuo Zuo et.al., Paper: [http://arxiv.org/abs/2208.04786v1](http://arxiv.org/abs/2208.04786v1)
 - 2022-08-09, **Synthetic Aperture Radar Image Change Detection via Layer Attention-Based Noise-Tolerant Network**, Desen Meng et.al., Paper: [http://arxiv.org/abs/2208.04481v1](http://arxiv.org/abs/2208.04481v1)
 - 2022-08-08, **Waveform Design for Mutual Interference Mitigation in Automotive Radar**, Arindam Bose et.al., Paper: [http://arxiv.org/abs/2208.04398v1](http://arxiv.org/abs/2208.04398v1)
@@ -31,6 +33,7 @@
 
 ## SLAM
 
+- 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
 - 2022-08-08, **Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**, Yifei Ren et.al., Paper: [http://arxiv.org/abs/2208.04274v1](http://arxiv.org/abs/2208.04274v1)
 - 2022-08-08, **SLAM-TKA: Real-time Intra-operative Measurement of Tibial Resection Plane in Conventional Total Knee Arthroplasty**, Shuai Zhang et.al., Paper: [http://arxiv.org/abs/2208.03945v1](http://arxiv.org/abs/2208.03945v1), Code: **[https://github.com/zsustc/calibration](https://github.com/zsustc/calibration)**
 - 2022-08-05, **A Survey on Visual Map Localization Using LiDARs and Cameras**, Elhousni Mahdi et.al., Paper: [http://arxiv.org/abs/2208.03376v1](http://arxiv.org/abs/2208.03376v1)
