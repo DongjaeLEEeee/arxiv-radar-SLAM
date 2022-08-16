@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-15**|**Radar-enabled ambient backscatter communication**|Luca Venturino et.al.|[2208.07061v1](http://arxiv.org/abs/2208.07061v1)|null|
 |**2022-08-11**|**AI-Powered Non-Contact In-Home Gait Monitoring and Activity Recognition System Based on mm-Wave FMCW Radar and Cloud Computing**|Hajar Abedi et.al.|[2208.05905v1](http://arxiv.org/abs/2208.05905v1)|null|
 |**2022-08-11**|**Covert Beamforming Design for Integrated Radar Sensing and Communication Systems**|Shuai Ma et.al.|[2208.05878v1](http://arxiv.org/abs/2208.05878v1)|null|
 |**2022-08-14**|**Reconfigurable Intelligent Surface Assisted NOMA Empowered Integrated Sensing and Communication**|Jiakuo Zuo et.al.|[2208.04786v2](http://arxiv.org/abs/2208.04786v2)|null|
