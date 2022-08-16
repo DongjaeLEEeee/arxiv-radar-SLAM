@@ -1,10 +1,10 @@
-> Updated on 2022.08.15
+> Updated on 2022.08.16
 
 ## Radar
 
 - 2022-08-11, **AI-Powered Non-Contact In-Home Gait Monitoring and Activity Recognition System Based on mm-Wave FMCW Radar and Cloud Computing**, Hajar Abedi et.al., Paper: [http://arxiv.org/abs/2208.05905v1](http://arxiv.org/abs/2208.05905v1)
 - 2022-08-11, **Covert Beamforming Design for Integrated Radar Sensing and Communication Systems**, Shuai Ma et.al., Paper: [http://arxiv.org/abs/2208.05878v1](http://arxiv.org/abs/2208.05878v1)
-- 2022-08-09, **Reconfigurable Intelligent Surface Assisted NOMA Empowered Integrated Sensing and Communication**, Jiakuo Zuo et.al., Paper: [http://arxiv.org/abs/2208.04786v1](http://arxiv.org/abs/2208.04786v1)
+- 2022-08-14, **Reconfigurable Intelligent Surface Assisted NOMA Empowered Integrated Sensing and Communication**, Jiakuo Zuo et.al., Paper: [http://arxiv.org/abs/2208.04786v2](http://arxiv.org/abs/2208.04786v2)
 - 2022-08-09, **Synthetic Aperture Radar Image Change Detection via Layer Attention-Based Noise-Tolerant Network**, Desen Meng et.al., Paper: [http://arxiv.org/abs/2208.04481v1](http://arxiv.org/abs/2208.04481v1)
 - 2022-08-08, **Waveform Design for Mutual Interference Mitigation in Automotive Radar**, Arindam Bose et.al., Paper: [http://arxiv.org/abs/2208.04398v1](http://arxiv.org/abs/2208.04398v1)
 - 2022-08-08, **Dual-Blind Deconvolution for Overlaid Radar-Communications Systems**, Edwin Vargas et.al., Paper: [http://arxiv.org/abs/2208.04381v1](http://arxiv.org/abs/2208.04381v1)
