@@ -2,6 +2,8 @@
 
 ## Radar
 
+- 2022-08-14, **Priority and collision avoidance system for traffic lights**, Iván Santos-González et.al., Paper: [http://arxiv.org/abs/2208.07702v1](http://arxiv.org/abs/2208.07702v1)
+- 2022-08-16, **Multi-Point Integrated Sensing and Communication: Fusion Model and Functionality Selection**, Guoliang Li et.al., Paper: [http://arxiv.org/abs/2208.07592v1](http://arxiv.org/abs/2208.07592v1)
 - 2022-08-15, **Radar-enabled ambient backscatter communication**, Luca Venturino et.al., Paper: [http://arxiv.org/abs/2208.07061v1](http://arxiv.org/abs/2208.07061v1)
 - 2022-08-11, **AI-Powered Non-Contact In-Home Gait Monitoring and Activity Recognition System Based on mm-Wave FMCW Radar and Cloud Computing**, Hajar Abedi et.al., Paper: [http://arxiv.org/abs/2208.05905v1](http://arxiv.org/abs/2208.05905v1)
 - 2022-08-11, **Covert Beamforming Design for Integrated Radar Sensing and Communication Systems**, Shuai Ma et.al., Paper: [http://arxiv.org/abs/2208.05878v1](http://arxiv.org/abs/2208.05878v1)
@@ -34,6 +36,7 @@
 
 ## SLAM
 
+- 2022-08-15, **BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**, Yunge Cui et.al., Paper: [http://arxiv.org/abs/2208.07473v1](http://arxiv.org/abs/2208.07473v1)
 - 2022-08-12, **Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**, Barbara Bazzana et.al., Paper: [http://arxiv.org/abs/2208.06325v1](http://arxiv.org/abs/2208.06325v1)
 - 2022-08-11, **RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**, Jason Y. Zhang et.al., Paper: [http://arxiv.org/abs/2208.05963v1](http://arxiv.org/abs/2208.05963v1)
 - 2022-08-08, **Visual-Inertial Multi-Instance Dynamic SLAM with Object-level Relocalisation**, Yifei Ren et.al., Paper: [http://arxiv.org/abs/2208.04274v1](http://arxiv.org/abs/2208.04274v1)
