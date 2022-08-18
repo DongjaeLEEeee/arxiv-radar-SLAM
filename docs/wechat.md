@@ -1,7 +1,8 @@
-> Updated on 2022.08.17
+> Updated on 2022.08.18
 
 ## Radar
 
+- 2022-08-17, **Protection of noise squeezing in a quantum interferometer with optimal resource allocation**, Wenfeng Huang et.al., Paper: [http://arxiv.org/abs/2208.08316v1](http://arxiv.org/abs/2208.08316v1)
 - 2022-08-14, **Priority and collision avoidance system for traffic lights**, Iván Santos-González et.al., Paper: [http://arxiv.org/abs/2208.07702v1](http://arxiv.org/abs/2208.07702v1)
 - 2022-08-16, **Multi-Point Integrated Sensing and Communication: Fusion Model and Functionality Selection**, Guoliang Li et.al., Paper: [http://arxiv.org/abs/2208.07592v1](http://arxiv.org/abs/2208.07592v1)
 - 2022-08-15, **Radar-enabled ambient backscatter communication**, Luca Venturino et.al., Paper: [http://arxiv.org/abs/2208.07061v1](http://arxiv.org/abs/2208.07061v1)
