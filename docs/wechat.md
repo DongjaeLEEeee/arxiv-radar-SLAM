@@ -2,6 +2,7 @@
 
 ## Radar
 
+- 2022-08-10, **Towards Daily High-resolution Inundation Observations using Deep Learning and EO**, Antara Dasgupta et.al., Paper: [http://arxiv.org/abs/2208.09135v1](http://arxiv.org/abs/2208.09135v1)
 - 2022-08-18, **Adaptive Pulse Compression for Sidelobes Reduction in Stretch Processing based MIMO Radars**, Hamza Malik et.al., Paper: [http://arxiv.org/abs/2208.08705v1](http://arxiv.org/abs/2208.08705v1)
 - 2022-08-17, **Visual Cross-View Metric Localization with Dense Uncertainty Estimates**, Zimin Xia et.al., Paper: [http://arxiv.org/abs/2208.08519v1](http://arxiv.org/abs/2208.08519v1), Code: **[https://github.com/tudelft-iv/crossviewmetriclocalization](https://github.com/tudelft-iv/crossviewmetriclocalization)**
 - 2022-08-17, **Protection of noise squeezing in a quantum interferometer with optimal resource allocation**, Wenfeng Huang et.al., Paper: [http://arxiv.org/abs/2208.08316v1](http://arxiv.org/abs/2208.08316v1)
