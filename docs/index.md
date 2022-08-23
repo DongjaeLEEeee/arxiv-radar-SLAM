@@ -8,6 +8,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-22**|**Iterative Sparse Recovery based Passive Localization in Perceptive Mobile Networks**|Lei Xie et.al.|[2208.10092v1](http://arxiv.org/abs/2208.10092v1)|null|
+|**2022-08-21**|**On The Robustness of Channel Allocation in Joint Radar And Communication Systems: An Auction Approach**|Ismail Lotfi et.al.|[2208.09821v1](http://arxiv.org/abs/2208.09821v1)|null|
+|**2022-08-21**|**A New Radar Signal Multiparameter-Based Deinterleaving Method**|Wang Chao et.al.|[2208.09786v1](http://arxiv.org/abs/2208.09786v1)|null|
+|**2022-08-21**|**JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**|Longrui Dong et.al.|[2208.09777v1](http://arxiv.org/abs/2208.09777v1)|null|
 |**2022-08-10**|**Towards Daily High-resolution Inundation Observations using Deep Learning and EO**|Antara Dasgupta et.al.|[2208.09135v1](http://arxiv.org/abs/2208.09135v1)|null|
 |**2022-08-18**|**Adaptive Pulse Compression for Sidelobes Reduction in Stretch Processing based MIMO Radars**|Hamza Malik et.al.|[2208.08705v1](http://arxiv.org/abs/2208.08705v1)|null|
 |**2022-08-17**|**Visual Cross-View Metric Localization with Dense Uncertainty Estimates**|Zimin Xia et.al.|[2208.08519v1](http://arxiv.org/abs/2208.08519v1)|**[link](https://github.com/tudelft-iv/crossviewmetriclocalization)**|
@@ -48,6 +52,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-22**|**Doppler Exploitation in Bistatic mmWave Radio SLAM**|Yu Ge et.al.|[2208.10204v1](http://arxiv.org/abs/2208.10204v1)|null|
+|**2022-08-21**|**Hilti-Oxford Dataset: A Millimetre-Accurate Benchmark for Simultaneous Localization and Mapping**|Lintong Zhang et.al.|[2208.09825v1](http://arxiv.org/abs/2208.09825v1)|null|
+|**2022-08-21**|**JVLDLoc: a Joint Optimization of Visual-LiDAR Constraints and Direction Priors for Localization in Driving Scenario**|Longrui Dong et.al.|[2208.09777v1](http://arxiv.org/abs/2208.09777v1)|null|
 |**2022-08-15**|**BoW3D: Bag of Words for Real-time Loop Closing in 3D LiDAR SLAM**|Yunge Cui et.al.|[2208.07473v1](http://arxiv.org/abs/2208.07473v1)|null|
 |**2022-08-12**|**Handling Constrained Optimization in Factor Graphs for Autonomous Navigation**|Barbara Bazzana et.al.|[2208.06325v1](http://arxiv.org/abs/2208.06325v1)|null|
 |**2022-08-11**|**RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild**|Jason Y. Zhang et.al.|[2208.05963v1](http://arxiv.org/abs/2208.05963v1)|null|
