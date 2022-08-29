@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-08-26**|**Joint Performance Metrics for Integrated Sensing and Communication Systems in Automotive Scenarios**|François De Saint Moulin et.al.|[2208.12790v1](http://arxiv.org/abs/2208.12790v1)|null|
+|**2022-08-25**|**Sub-aperture SAR Imaging with Uncertainty Quantification**|Victor Churchill et.al.|[2208.12292v1](http://arxiv.org/abs/2208.12292v1)|null|
 |**2022-08-25**|**Bridging the View Disparity of Radar and Camera Features for Multi-modal Fusion 3D Object Detection**|Taohua Zhou et.al.|[2208.12079v1](http://arxiv.org/abs/2208.12079v1)|null|
 |**2022-08-25**|**MIMO Multifunction RF Systems: Detection Performance and Waveform Design**|Bo Tang et.al.|[2208.11816v1](http://arxiv.org/abs/2208.11816v1)|null|
 |**2022-08-24**|**Calibrated and Enhanced NRLMSIS 2.0 Model with Uncertainty Quantification**|Richard J. Licata et.al.|[2208.11619v1](http://arxiv.org/abs/2208.11619v1)|null|
