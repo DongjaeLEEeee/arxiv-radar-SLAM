@@ -53,6 +53,7 @@
 
 ## SLAM
 
+- 2022-08-27, **Learning to SLAM on the Fly in Unknown Environments: A Continual Learning Approach for Drones in Visually Ambiguous Scenes**, Ali Safa et.al., Paper: [http://arxiv.org/abs/2208.12997v1](http://arxiv.org/abs/2208.12997v1)
 - 2022-08-25, **FusionPortable: A Multi-Sensor Campus-Scene Dataset for Evaluation of Localization and Mapping Accuracy on Diverse Platforms**, Jianhao Jiao et.al., Paper: [http://arxiv.org/abs/2208.11865v1](http://arxiv.org/abs/2208.11865v1)
 - 2022-08-25, **Lidar SLAM for Autonomous Driving Vehicles**, Farhad Aghili et.al., Paper: [http://arxiv.org/abs/2208.11855v1](http://arxiv.org/abs/2208.11855v1)
 - 2022-08-24, **DynaVINS: A Visual-Inertial SLAM for Dynamic Environments**, Seungwon Song et.al., Paper: [http://arxiv.org/abs/2208.11500v1](http://arxiv.org/abs/2208.11500v1), Code: **[https://github.com/url-kaist/dynavins](https://github.com/url-kaist/dynavins)**
