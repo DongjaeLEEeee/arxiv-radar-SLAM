@@ -1,15 +1,15 @@
-> Updated on 2022.08.29
+> Updated on 2022.08.30
 
 ## Radar
 
-- 2022-08-26, **Joint Performance Metrics for Integrated Sensing and Communication Systems in Automotive Scenarios**, François De Saint Moulin et.al., Paper: [http://arxiv.org/abs/2208.12790v1](http://arxiv.org/abs/2208.12790v1)
+- 2022-08-29, **Joint Performance Metrics for Integrated Sensing and Communication Systems in Automotive Scenarios**, François De Saint Moulin et.al., Paper: [http://arxiv.org/abs/2208.12790v2](http://arxiv.org/abs/2208.12790v2)
 - 2022-08-25, **Sub-aperture SAR Imaging with Uncertainty Quantification**, Victor Churchill et.al., Paper: [http://arxiv.org/abs/2208.12292v1](http://arxiv.org/abs/2208.12292v1)
 - 2022-08-25, **Bridging the View Disparity of Radar and Camera Features for Multi-modal Fusion 3D Object Detection**, Taohua Zhou et.al., Paper: [http://arxiv.org/abs/2208.12079v1](http://arxiv.org/abs/2208.12079v1)
 - 2022-08-25, **MIMO Multifunction RF Systems: Detection Performance and Waveform Design**, Bo Tang et.al., Paper: [http://arxiv.org/abs/2208.11816v1](http://arxiv.org/abs/2208.11816v1)
 - 2022-08-24, **Calibrated and Enhanced NRLMSIS 2.0 Model with Uncertainty Quantification**, Richard J. Licata et.al., Paper: [http://arxiv.org/abs/2208.11619v1](http://arxiv.org/abs/2208.11619v1)
 - 2022-08-24, **Learning crop type mapping from regional label proportions in large-scale SAR and optical imagery**, Laura E. C. La Rosa et.al., Paper: [http://arxiv.org/abs/2208.11607v1](http://arxiv.org/abs/2208.11607v1)
 - 2022-08-23, **A Compact Quasi-Yagi Antenna for FMCW Radar-on-Chip based Through-Wall Imaging**, Anand Kumar et.al., Paper: [http://arxiv.org/abs/2208.11034v1](http://arxiv.org/abs/2208.11034v1)
-- 2022-08-23, **A Simulation Method for MMW Radar Sensing in Traffic Intersection Based on BART Algorithm**, Ming Zong et.al., Paper: [http://arxiv.org/abs/2208.10939v1](http://arxiv.org/abs/2208.10939v1)
+- 2022-08-29, **A Simulation Method for MMW Radar Sensing in Traffic Intersection Based on BART Algorithm**, Ming Zong et.al., Paper: [http://arxiv.org/abs/2208.10939v2](http://arxiv.org/abs/2208.10939v2)
 - 2022-08-26, **Contact-Free Multi-Target Tracking Using Distributed Massive MIMO-OFDM Communication System: Prototype and Analysis**, Chenglong Li et.al., Paper: [http://arxiv.org/abs/2208.10863v2](http://arxiv.org/abs/2208.10863v2)
 - 2022-08-22, **Iterative Sparse Recovery based Passive Localization in Perceptive Mobile Networks**, Lei Xie et.al., Paper: [http://arxiv.org/abs/2208.10092v1](http://arxiv.org/abs/2208.10092v1)
 - 2022-08-21, **On The Robustness of Channel Allocation in Joint Radar And Communication Systems: An Auction Approach**, Ismail Lotfi et.al., Paper: [http://arxiv.org/abs/2208.09821v1](http://arxiv.org/abs/2208.09821v1)
