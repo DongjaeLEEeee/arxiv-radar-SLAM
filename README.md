@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-08**|**An Efficient Radar Receiver for OFDM-based Joint Radar and Communication Systems**|Mamady Delamou et.al.|[2209.03883v1](http://arxiv.org/abs/2209.03883v1)|null|
+|**2022-09-08**|**Ambiguity Function Shaping based on Alternating Direction Riemannian Optimal Algorithm**|Haoyu Yi et.al.|[2209.03806v1](http://arxiv.org/abs/2209.03806v1)|null|
 |**2022-09-07**|**Toward Data-Driven Radar STAP**|Shyam Venkatasubramanian et.al.|[2209.02890v1](http://arxiv.org/abs/2209.02890v1)|null|
 |**2022-09-06**|**Broad-Angle Multichannel Metagrating Diffusers**|Yarden Yashno et.al.|[2209.02804v1](http://arxiv.org/abs/2209.02804v1)|null|
 |**2022-09-06**|**Coexistence of Pulsed Radar and Communications: Interference Suppression and Multi-path Combining**|Haoyu Zhang et.al.|[2209.02304v1](http://arxiv.org/abs/2209.02304v1)|null|
@@ -65,6 +67,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-08**|**ExplORB-SLAM: Active Visual SLAM Exploiting the Pose-graph Topology**|Julio A. Placed et.al.|[2209.03693v1](http://arxiv.org/abs/2209.03693v1)|null|
+|**2022-09-08**|**R$^3$LIVE++: A Robust, Real-time, Radiance reconstruction package with a tightly-coupled LiDAR-Inertial-Visual state Estimator**|Jiarong Lin et.al.|[2209.03666v1](http://arxiv.org/abs/2209.03666v1)|**[link](https://github.com/hku-mars/r3live)**|
 |**2022-09-06**|**Group-$k$ Consistent Measurement Set Maximization for Robust Outlier Detection**|Brendon Forsgren et.al.|[2209.02658v1](http://arxiv.org/abs/2209.02658v1)|**[link](https://bitbucket.org/jmangelson/gkcm)**|
 |**2022-09-05**|**Neuromorphic Visual Odometry with Resonator Networks**|Alpha Renner et.al.|[2209.02000v1](http://arxiv.org/abs/2209.02000v1)|null|
 |**2022-09-05**|**MuCaSLAM: CNN-Based Frame Quality Assessment for Mobile Robot with Omnidirectional Visual SLAM**|Pavel Karpyshev et.al.|[2209.01936v1](http://arxiv.org/abs/2209.01936v1)|null|
