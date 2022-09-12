@@ -1,9 +1,11 @@
-## Updated on 2022.09.11
+## Updated on 2022.09.12
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-09**|**IEEE 802.11ad Based Joint Radar Communication Transceiver: Design, Prototype and Performance Analysis**|Akanksha Sneh et.al.|[2209.04235v1](http://arxiv.org/abs/2209.04235v1)|null|
+|**2022-09-09**|**Improving the Environmental Perception of Autonomous Vehicles using Deep Learning-based Audio Classification**|Finley Walden et.al.|[2209.04075v1](http://arxiv.org/abs/2209.04075v1)|null|
 |**2022-09-08**|**An Efficient Radar Receiver for OFDM-based Joint Radar and Communication Systems**|Mamady Delamou et.al.|[2209.03883v1](http://arxiv.org/abs/2209.03883v1)|null|
 |**2022-09-08**|**Ambiguity Function Shaping based on Alternating Direction Riemannian Optimal Algorithm**|Haoyu Yi et.al.|[2209.03806v1](http://arxiv.org/abs/2209.03806v1)|null|
 |**2022-09-07**|**Toward Data-Driven Radar STAP**|Shyam Venkatasubramanian et.al.|[2209.02890v1](http://arxiv.org/abs/2209.02890v1)|null|
