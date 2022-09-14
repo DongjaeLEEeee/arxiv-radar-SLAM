@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-13**|**Exploring the use of Transition Path Theory in building an oil spill prediction scheme**|M. J. Olascoaga et.al.|[2209.06055v1](http://arxiv.org/abs/2209.06055v1)|null|
+|**2022-09-11**|**Radar Odometry on SE(3) with Constant Acceleration Motion Prior and Polar Measurement Model**|Kyle Retan et.al.|[2209.05956v1](http://arxiv.org/abs/2209.05956v1)|null|
+|**2022-09-13**|**A Many-ported and Shared Memory Architecture for High-Performance ADAS SoCs**|Hao Luan et.al.|[2209.05731v1](http://arxiv.org/abs/2209.05731v1)|null|
 |**2022-09-12**|**mmBody Benchmark: 3D Body Reconstruction Dataset and Analysis for Millimeter Wave Radar**|Anjun Chen et.al.|[2209.05070v1](http://arxiv.org/abs/2209.05070v1)|null|
 |**2022-09-12**|**Vision Transformer with Convolutional Encoder-Decoder for Hand Gesture Recognition using 24 GHz Doppler Radar**|Kavinda Kehelella et.al.|[2209.05032v1](http://arxiv.org/abs/2209.05032v1)|null|
 |**2022-09-11**|**Dynamic Hybrid Beamforming Design for Dual-Function Radar-Communication Systems**|Bowen Wang et.al.|[2209.04848v1](http://arxiv.org/abs/2209.04848v1)|null|
