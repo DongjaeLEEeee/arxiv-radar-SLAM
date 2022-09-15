@@ -1,7 +1,10 @@
-> Updated on 2022.09.14
+> Updated on 2022.09.15
 
 ## Radar
 
+- 2022-09-14, **Cornucopia: A Framework for Feedback Guided Generation of Binaries**, Vidush Singhal et.al., Paper: [http://arxiv.org/abs/2209.06694v1](http://arxiv.org/abs/2209.06694v1)
+- 2022-09-14, **Joint Communication and Sensing: 5G NR Compliant Ranging Using the Sounding Reference Signal**, Michael Hofstadler et.al., Paper: [http://arxiv.org/abs/2209.06566v1](http://arxiv.org/abs/2209.06566v1)
+- 2022-09-14, **CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer**, Youngseok Kim et.al., Paper: [http://arxiv.org/abs/2209.06535v1](http://arxiv.org/abs/2209.06535v1)
 - 2022-09-13, **Exploring the use of Transition Path Theory in building an oil spill prediction scheme**, M. J. Olascoaga et.al., Paper: [http://arxiv.org/abs/2209.06055v1](http://arxiv.org/abs/2209.06055v1)
 - 2022-09-11, **Radar Odometry on SE(3) with Constant Acceleration Motion Prior and Polar Measurement Model**, Kyle Retan et.al., Paper: [http://arxiv.org/abs/2209.05956v1](http://arxiv.org/abs/2209.05956v1)
 - 2022-09-13, **A Many-ported and Shared Memory Architecture for High-Performance ADAS SoCs**, Hao Luan et.al., Paper: [http://arxiv.org/abs/2209.05731v1](http://arxiv.org/abs/2209.05731v1)
@@ -76,6 +79,8 @@
 
 ## SLAM
 
+- 2022-09-14, **Semantic Visual Simultaneous Localization and Mapping: A Survey**, Kaiqi Chen et.al., Paper: [http://arxiv.org/abs/2209.06428v1](http://arxiv.org/abs/2209.06428v1)
+- 2022-09-13, **Optimizing SLAM Evaluation Footprint Through Dynamic Range Coverage Analysis of Datasets**, Islam Ali et.al., Paper: [http://arxiv.org/abs/2209.06316v1](http://arxiv.org/abs/2209.06316v1)
 - 2022-09-12, **A Review on Visual-SLAM: Advancements from Geometric Modelling to Learning-based Semantic Scene Understanding**, Tin Lai et.al., Paper: [http://arxiv.org/abs/2209.05222v1](http://arxiv.org/abs/2209.05222v1)
 - 2022-09-12, **Attitude-Guided Loop Closure for Cameras with Negative Plane**, Ze Wang et.al., Paper: [http://arxiv.org/abs/2209.05167v1](http://arxiv.org/abs/2209.05167v1), Code: **[https://github.com/flysoaryun/lf-vio-loop](https://github.com/flysoaryun/lf-vio-loop)**
 - 2022-09-09, **General Place Recognition Survey: Towards the Real-world Autonomy Age**, Peng Yin et.al., Paper: [http://arxiv.org/abs/2209.04497v1](http://arxiv.org/abs/2209.04497v1), Code: **[https://github.com/MetaSLAM/GPRS](https://github.com/MetaSLAM/GPRS)**
