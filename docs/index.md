@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2022.09.15
+## Updated on 2022.09.16
 
 ## Radar
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-14**|**Cornucopia: A Framework for Feedback Guided Generation of Binaries**|Vidush Singhal et.al.|[2209.06694v1](http://arxiv.org/abs/2209.06694v1)|null|
-|**2022-09-14**|**Joint Communication and Sensing: 5G NR Compliant Ranging Using the Sounding Reference Signal**|Michael Hofstadler et.al.|[2209.06566v1](http://arxiv.org/abs/2209.06566v1)|null|
+|**2022-09-15**|**Joint Communication and Sensing: 5G NR Compliant Ranging Using the Sounding Reference Signal**|Michael Hofstadler et.al.|[2209.06566v2](http://arxiv.org/abs/2209.06566v2)|null|
 |**2022-09-14**|**CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer**|Youngseok Kim et.al.|[2209.06535v1](http://arxiv.org/abs/2209.06535v1)|null|
 |**2022-09-13**|**Exploring the use of Transition Path Theory in building an oil spill prediction scheme**|M. J. Olascoaga et.al.|[2209.06055v1](http://arxiv.org/abs/2209.06055v1)|null|
 |**2022-09-11**|**Radar Odometry on SE(3) with Constant Acceleration Motion Prior and Polar Measurement Model**|Kyle Retan et.al.|[2209.05956v1](http://arxiv.org/abs/2209.05956v1)|null|
