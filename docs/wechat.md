@@ -1,7 +1,9 @@
-> Updated on 2022.09.18
+> Updated on 2022.09.19
 
 ## Radar
 
+- 2022-09-16, **New Constraints on Macroscopic Dark Matter Using Radar Meteor Detectors**, Pawan Dhakal et.al., Paper: [http://arxiv.org/abs/2209.07690v1](http://arxiv.org/abs/2209.07690v1)
+- 2022-09-15, **The Development of Spatial Attention U-Net for The Recovery of Ionospheric Measurements and The Extraction of Ionospheric Parameters**, Guan-Han Huang et.al., Paper: [http://arxiv.org/abs/2209.07581v1](http://arxiv.org/abs/2209.07581v1)
 - 2022-09-15, **Multi-Modal Beam Prediction Challenge 2022: Towards Generalization**, Gouranga Charan et.al., Paper: [http://arxiv.org/abs/2209.07519v1](http://arxiv.org/abs/2209.07519v1)
 - 2022-09-15, **Landmark Management in the Application of Radar SLAM**, Shuai Sun et.al., Paper: [http://arxiv.org/abs/2209.07199v1](http://arxiv.org/abs/2209.07199v1)
 - 2022-09-15, **Efficient Perception, Planning, and Control Algorithms for Vision-Based Automated Vehicles**, Der-Hau Lee et.al., Paper: [http://arxiv.org/abs/2209.07042v1](http://arxiv.org/abs/2209.07042v1)
@@ -82,6 +84,9 @@
 
 ## SLAM
 
+- 2022-09-16, **ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**, Aditya Arun et.al., Paper: [http://arxiv.org/abs/2209.08091v1](http://arxiv.org/abs/2209.08091v1)
+- 2022-09-16, **iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**, Yuhang Ming et.al., Paper: [http://arxiv.org/abs/2209.07919v1](http://arxiv.org/abs/2209.07919v1)
+- 2022-09-16, **TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2209.07888v1](http://arxiv.org/abs/2209.07888v1)
 - 2022-09-15, **Landmark Management in the Application of Radar SLAM**, Shuai Sun et.al., Paper: [http://arxiv.org/abs/2209.07199v1](http://arxiv.org/abs/2209.07199v1)
 - 2022-09-15, **PROB-SLAM: Real-time Visual SLAM Based on Probabilistic Graph Optimization**, Xianwei Meng et.al., Paper: [http://arxiv.org/abs/2209.07061v1](http://arxiv.org/abs/2209.07061v1)
 - 2022-09-14, **Semantic Visual Simultaneous Localization and Mapping: A Survey**, Kaiqi Chen et.al., Paper: [http://arxiv.org/abs/2209.06428v1](http://arxiv.org/abs/2209.06428v1)
