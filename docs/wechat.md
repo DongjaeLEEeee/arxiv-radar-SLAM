@@ -2,6 +2,7 @@
 
 ## Radar
 
+- 2022-09-19, **A THz Video SAR Imaging Algorithm Based on Chirp Scaling**, Jiawei Jiang et.al., Paper: [http://arxiv.org/abs/2209.08701v1](http://arxiv.org/abs/2209.08701v1)
 - 2022-09-16, **New Constraints on Macroscopic Dark Matter Using Radar Meteor Detectors**, Pawan Dhakal et.al., Paper: [http://arxiv.org/abs/2209.07690v1](http://arxiv.org/abs/2209.07690v1)
 - 2022-09-15, **The Development of Spatial Attention U-Net for The Recovery of Ionospheric Measurements and The Extraction of Ionospheric Parameters**, Guan-Han Huang et.al., Paper: [http://arxiv.org/abs/2209.07581v1](http://arxiv.org/abs/2209.07581v1)
 - 2022-09-15, **Multi-Modal Beam Prediction Challenge 2022: Towards Generalization**, Gouranga Charan et.al., Paper: [http://arxiv.org/abs/2209.07519v1](http://arxiv.org/abs/2209.07519v1)
@@ -84,6 +85,12 @@
 
 ## SLAM
 
+- 2022-09-19, **LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM**, Letian Zhang et.al., Paper: [http://arxiv.org/abs/2209.08810v1](http://arxiv.org/abs/2209.08810v1)
+- 2022-09-18, **HGI-SLAM: Loop Closure With Human and Geometric Importance Features**, Shuhul Mujoo et.al., Paper: [http://arxiv.org/abs/2209.08608v1](http://arxiv.org/abs/2209.08608v1)
+- 2022-09-18, **Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM**, Jiarui Tan et.al., Paper: [http://arxiv.org/abs/2209.08578v1](http://arxiv.org/abs/2209.08578v1)
+- 2022-09-17, **DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments**, Shihao Shen et.al., Paper: [http://arxiv.org/abs/2209.08430v1](http://arxiv.org/abs/2209.08430v1), Code: **[https://github.com/geniussh/dytanvo](https://github.com/geniussh/dytanvo)**
+- 2022-09-17, **OA-SLAM: Leveraging Objects for Camera Relocalization in Visual SLAM**, Matthieu Zins et.al., Paper: [http://arxiv.org/abs/2209.08338v1](http://arxiv.org/abs/2209.08338v1)
+- 2022-09-17, **PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments**, Adam Dai et.al., Paper: [http://arxiv.org/abs/2209.08248v1](http://arxiv.org/abs/2209.08248v1)
 - 2022-09-16, **ViWiD: Leveraging WiFi for Robust and Resource-Efficient SLAM**, Aditya Arun et.al., Paper: [http://arxiv.org/abs/2209.08091v1](http://arxiv.org/abs/2209.08091v1)
 - 2022-09-16, **iDF-SLAM: End-to-End RGB-D SLAM with Neural Implicit Mapping and Deep Feature Tracking**, Yuhang Ming et.al., Paper: [http://arxiv.org/abs/2209.07919v1](http://arxiv.org/abs/2209.07919v1)
 - 2022-09-16, **TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2209.07888v1](http://arxiv.org/abs/2209.07888v1)
