@@ -2,6 +2,10 @@
 
 ## Radar
 
+- 2022-09-26, **New Spectrally Constrained Sequence Sets with Optimal {Periodic} Cross-Correlation**, Zhifan Ye et.al., Paper: [http://arxiv.org/abs/2209.12755v1](http://arxiv.org/abs/2209.12755v1)
+- 2022-09-26, **DeepFusion: A Robust and Modular 3D Object Detector for Lidars, Cameras and Radars**, Florian Drews et.al., Paper: [http://arxiv.org/abs/2209.12729v1](http://arxiv.org/abs/2209.12729v1)
+- 2022-09-26, **Surpassing super-radiant scattering limit in a flat split-ring resonator**, Anna Mikhailovskaya et.al., Paper: [http://arxiv.org/abs/2209.12627v1](http://arxiv.org/abs/2209.12627v1)
+- 2022-09-24, **Neuromorphic Integrated Sensing and Communications**, Jiechen Chen et.al., Paper: [http://arxiv.org/abs/2209.11891v1](http://arxiv.org/abs/2209.11891v1)
 - 2022-09-19, **Meteorological Satellite Images Prediction Based on Deep Multi-scales Extrapolation Fusion**, Fang Huang et.al., Paper: [http://arxiv.org/abs/2209.11682v1](http://arxiv.org/abs/2209.11682v1)
 - 2022-09-22, **Sensing Aided OTFS Channel Estimation for Massive MIMO Systems**, Shuaifeng Jiang et.al., Paper: [http://arxiv.org/abs/2209.11321v1](http://arxiv.org/abs/2209.11321v1)
 - 2022-09-21, **AETomo-Net: A Novel Deep Learning Network for Tomographic SAR Imaging Based on Multi-dimensional Features**, Yu Ren et.al., Paper: [http://arxiv.org/abs/2209.11038v1](http://arxiv.org/abs/2209.11038v1)
@@ -92,6 +96,8 @@
 
 ## SLAM
 
+- 2022-09-24, **Graph Neural Networks for Multi-Robot Active Information Acquisition**, Mariliza Tzes et.al., Paper: [http://arxiv.org/abs/2209.12091v1](http://arxiv.org/abs/2209.12091v1)
+- 2022-09-24, **Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**, Jonathan J. Y. Kim et.al., Paper: [http://arxiv.org/abs/2209.11894v1](http://arxiv.org/abs/2209.11894v1)
 - 2022-09-23, **involve-MI: Informative Planning with High-Dimensional Non-Parametric Beliefs**, Gilad Rotman et.al., Paper: [http://arxiv.org/abs/2209.11591v1](http://arxiv.org/abs/2209.11591v1)
 - 2022-09-23, **Automatic Sign Reading and Localization for Semantic Mapping with an Office Robot**, David Balaban et.al., Paper: [http://arxiv.org/abs/2209.11432v1](http://arxiv.org/abs/2209.11432v1)
 - 2022-09-22, **SQ-SLAM: Monocular Semantic SLAM Based on Superquadric Object Representation**, Xiao Han et.al., Paper: [http://arxiv.org/abs/2209.10817v1](http://arxiv.org/abs/2209.10817v1)
