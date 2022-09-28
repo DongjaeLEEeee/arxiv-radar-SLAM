@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2022.09.27
+## Updated on 2022.09.28
 
 ## Radar
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-09-26**|**New Spectrally Constrained Sequence Sets with Optimal {Periodic} Cross-Correlation**|Zhifan Ye et.al.|[2209.12755v1](http://arxiv.org/abs/2209.12755v1)|null|
-|**2022-09-26**|**DeepFusion: A Robust and Modular 3D Object Detector for Lidars, Cameras and Radars**|Florian Drews et.al.|[2209.12729v1](http://arxiv.org/abs/2209.12729v1)|null|
+|**2022-09-27**|**DeepFusion: A Robust and Modular 3D Object Detector for Lidars, Cameras and Radars**|Florian Drews et.al.|[2209.12729v2](http://arxiv.org/abs/2209.12729v2)|null|
 |**2022-09-26**|**Surpassing super-radiant scattering limit in a flat split-ring resonator**|Anna Mikhailovskaya et.al.|[2209.12627v1](http://arxiv.org/abs/2209.12627v1)|null|
 |**2022-09-24**|**Neuromorphic Integrated Sensing and Communications**|Jiechen Chen et.al.|[2209.11891v1](http://arxiv.org/abs/2209.11891v1)|null|
 |**2022-09-19**|**Meteorological Satellite Images Prediction Based on Deep Multi-scales Extrapolation Fusion**|Fang Huang et.al.|[2209.11682v1](http://arxiv.org/abs/2209.11682v1)|null|
