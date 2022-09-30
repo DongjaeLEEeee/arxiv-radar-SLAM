@@ -1,7 +1,10 @@
-> Updated on 2022.09.29
+> Updated on 2022.09.30
 
 ## Radar
 
+- 2022-09-29, **Estimation of Electrical Characteristics of Inhomogeneous Walls Using Generative Adversarial Networks**, Kainat Yasmeen et.al., Paper: [http://arxiv.org/abs/2209.14805v1](http://arxiv.org/abs/2209.14805v1)
+- 2022-09-29, **NVRadarNet: Real-Time Radar Obstacle and Free Space Detection for Autonomous Driving**, Alexander Popov et.al., Paper: [http://arxiv.org/abs/2209.14499v1](http://arxiv.org/abs/2209.14499v1)
+- 2022-09-28, **Variational Bayes for robust radar single object tracking**, Alp Sarı et.al., Paper: [http://arxiv.org/abs/2209.14397v1](http://arxiv.org/abs/2209.14397v1)
 - 2022-09-28, **Object oriented data analysis of surface motion time series in peatland landscapes**, Emily G. Mitchell et.al., Paper: [http://arxiv.org/abs/2209.14187v1](http://arxiv.org/abs/2209.14187v1)
 - 2022-09-28, **Learning Filter-Based Compressed Blind-Deconvolution**, Bahareh Tolooshams et.al., Paper: [http://arxiv.org/abs/2209.14165v1](http://arxiv.org/abs/2209.14165v1)
 - 2022-09-27, **Fusion of Inverse Synthetic Aperture Radar and Camera Images for Automotive Target Tracking**, Shobha Sundar Ram et.al., Paper: [http://arxiv.org/abs/2209.13512v1](http://arxiv.org/abs/2209.13512v1)
@@ -103,6 +106,8 @@
 
 ## SLAM
 
+- 2022-09-29, **DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**, Mariia Gladkova et.al., Paper: [http://arxiv.org/abs/2209.14965v1](http://arxiv.org/abs/2209.14965v1)
+- 2022-09-28, **Robust Incremental Smoothing and Mapping (riSAM)**, Daniel McGann et.al., Paper: [http://arxiv.org/abs/2209.14359v1](http://arxiv.org/abs/2209.14359v1)
 - 2022-09-27, **Orbeez-SLAM: A Real-time Monocular Visual SLAM with ORB Features and NeRF-realized Mapping**, Chi-Ming Chung et.al., Paper: [http://arxiv.org/abs/2209.13274v1](http://arxiv.org/abs/2209.13274v1)
 - 2022-09-24, **Graph Neural Networks for Multi-Robot Active Information Acquisition**, Mariliza Tzes et.al., Paper: [http://arxiv.org/abs/2209.12091v1](http://arxiv.org/abs/2209.12091v1)
 - 2022-09-24, **Closing the Loop: Graph Networks to Unify Semantic Objects and Visual Features for Multi-object Scenes**, Jonathan J. Y. Kim et.al., Paper: [http://arxiv.org/abs/2209.11894v1](http://arxiv.org/abs/2209.11894v1)
