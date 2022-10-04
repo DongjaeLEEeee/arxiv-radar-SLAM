@@ -1,10 +1,10 @@
-## Updated on 2022.10.03
+## Updated on 2022.10.04
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-09-30**|**Compressed sensing radar detectors under the row-orthogonal design model: a statistical mechanics perspective**|Siqi Na et.al.|[2209.15273v1](http://arxiv.org/abs/2209.15273v1)|null|
+|**2022-10-03**|**Compressed sensing radar detectors under the row-orthogonal design model: a statistical mechanics perspective**|Siqi Na et.al.|[2209.15273v2](http://arxiv.org/abs/2209.15273v2)|null|
 |**2022-09-30**|**Transformers for Object Detection in Large Point Clouds**|Felicia Ruppel et.al.|[2209.15258v1](http://arxiv.org/abs/2209.15258v1)|null|
 |**2022-09-29**|**Guided Unsupervised Learning by Subaperture Decomposition for Ocean SAR Image Retrieval**|Nicolae-Cătălin Ristea et.al.|[2209.15034v1](http://arxiv.org/abs/2209.15034v1)|null|
 |**2022-09-29**|**Estimation of Electrical Characteristics of Inhomogeneous Walls Using Generative Adversarial Networks**|Kainat Yasmeen et.al.|[2209.14805v1](http://arxiv.org/abs/2209.14805v1)|null|
