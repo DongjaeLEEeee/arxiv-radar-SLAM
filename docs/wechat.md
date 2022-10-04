@@ -2,6 +2,8 @@
 
 ## Radar
 
+- 2022-10-03, **Adjusting Posteriors from Composite and Misspecified Likelihoods with Application to Spatial Extremes in R-INLA**, Silius M. Vandeskog et.al., Paper: [http://arxiv.org/abs/2210.00760v1](http://arxiv.org/abs/2210.00760v1)
+- 2022-10-02, **Seventy Years of Radar and Communications: The Road from Separation to Integration**, Fan Liu et.al., Paper: [http://arxiv.org/abs/2210.00446v1](http://arxiv.org/abs/2210.00446v1)
 - 2022-10-03, **Compressed sensing radar detectors under the row-orthogonal design model: a statistical mechanics perspective**, Siqi Na et.al., Paper: [http://arxiv.org/abs/2209.15273v2](http://arxiv.org/abs/2209.15273v2)
 - 2022-09-30, **Transformers for Object Detection in Large Point Clouds**, Felicia Ruppel et.al., Paper: [http://arxiv.org/abs/2209.15258v1](http://arxiv.org/abs/2209.15258v1)
 - 2022-09-29, **Guided Unsupervised Learning by Subaperture Decomposition for Ocean SAR Image Retrieval**, Nicolae-Cătălin Ristea et.al., Paper: [http://arxiv.org/abs/2209.15034v1](http://arxiv.org/abs/2209.15034v1)
@@ -109,6 +111,9 @@
 
 ## SLAM
 
+- 2022-10-03, **DRACo-SLAM: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams**, John McConnell et.al., Paper: [http://arxiv.org/abs/2210.00867v1](http://arxiv.org/abs/2210.00867v1)
+- 2022-10-03, **A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**, Ha Sier et.al., Paper: [http://arxiv.org/abs/2210.00812v1](http://arxiv.org/abs/2210.00812v1)
+- 2022-10-01, **Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**, Ali Eslamian et.al., Paper: [http://arxiv.org/abs/2210.00278v1](http://arxiv.org/abs/2210.00278v1)
 - 2022-09-30, **PyPose: A Library for Robot Learning with Physics-based Optimization**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2209.15428v1](http://arxiv.org/abs/2209.15428v1), Code: **[https://github.com/pypose/pypose](https://github.com/pypose/pypose)**
 - 2022-09-29, **DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**, Mariia Gladkova et.al., Paper: [http://arxiv.org/abs/2209.14965v1](http://arxiv.org/abs/2209.14965v1)
 - 2022-09-28, **Robust Incremental Smoothing and Mapping (riSAM)**, Daniel McGann et.al., Paper: [http://arxiv.org/abs/2209.14359v1](http://arxiv.org/abs/2209.14359v1)
