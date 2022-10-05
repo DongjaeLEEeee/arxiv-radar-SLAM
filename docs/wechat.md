@@ -2,6 +2,9 @@
 
 ## Radar
 
+- 2022-10-04, **A Probabilistic Model for Aircraft in Climb using Monotonic Functional Gaussian Process Emulators**, Nick Pepper et.al., Paper: [http://arxiv.org/abs/2210.01445v1](http://arxiv.org/abs/2210.01445v1)
+- 2022-10-04, **Sub-millimetre wave range-Doppler radar as a diagnostic tool for gas-solids systems -- solids concentration measurements**, Marlene Bonmann et.al., Paper: [http://arxiv.org/abs/2210.01409v1](http://arxiv.org/abs/2210.01409v1)
+- 2022-10-04, **ImmFusion: Robust mmWave-RGB Fusion for 3D Human Body Reconstruction in All Weather Conditions**, Anjun Chen et.al., Paper: [http://arxiv.org/abs/2210.01346v1](http://arxiv.org/abs/2210.01346v1)
 - 2022-10-03, **Adjusting Posteriors from Composite and Misspecified Likelihoods with Application to Spatial Extremes in R-INLA**, Silius M. Vandeskog et.al., Paper: [http://arxiv.org/abs/2210.00760v1](http://arxiv.org/abs/2210.00760v1)
 - 2022-10-02, **Seventy Years of Radar and Communications: The Road from Separation to Integration**, Fan Liu et.al., Paper: [http://arxiv.org/abs/2210.00446v1](http://arxiv.org/abs/2210.00446v1)
 - 2022-10-03, **Compressed sensing radar detectors under the row-orthogonal design model: a statistical mechanics perspective**, Siqi Na et.al., Paper: [http://arxiv.org/abs/2209.15273v2](http://arxiv.org/abs/2209.15273v2)
@@ -111,8 +114,11 @@
 
 ## SLAM
 
-- 2022-10-03, **DRACo-SLAM: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams**, John McConnell et.al., Paper: [http://arxiv.org/abs/2210.00867v1](http://arxiv.org/abs/2210.00867v1)
-- 2022-10-03, **A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**, Ha Sier et.al., Paper: [http://arxiv.org/abs/2210.00812v1](http://arxiv.org/abs/2210.00812v1)
+- 2022-10-04, **O2S: Open-source open shuttle**, Nwankwo Linus et.al., Paper: [http://arxiv.org/abs/2210.01627v1](http://arxiv.org/abs/2210.01627v1)
+- 2022-10-04, **Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**, Weiying Wang et.al., Paper: [http://arxiv.org/abs/2210.01320v1](http://arxiv.org/abs/2210.01320v1)
+- 2022-10-03, **Probabilistic Volumetric Fusion for Dense Monocular SLAM**, Antoni Rosinol et.al., Paper: [http://arxiv.org/abs/2210.01276v1](http://arxiv.org/abs/2210.01276v1)
+- 2022-10-03, **DRACo-SLAM: Distributed Robust Acoustic Communication-efficient SLAM for Imaging Sonar Equipped Underwater Robot Teams**, John McConnell et.al., Paper: [http://arxiv.org/abs/2210.00867v1](http://arxiv.org/abs/2210.00867v1), Code: **[https://github.com/jake3991/draco-slam](https://github.com/jake3991/draco-slam)**
+- 2022-10-03, **A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments**, Ha Sier et.al., Paper: [http://arxiv.org/abs/2210.00812v1](http://arxiv.org/abs/2210.00812v1), Code: **[https://github.com/tiers/tiers-lidars-dataset-enhanced](https://github.com/tiers/tiers-lidars-dataset-enhanced)**
 - 2022-10-01, **Det-SLAM: A semantic visual SLAM for highly dynamic scenes using Detectron2**, Ali Eslamian et.al., Paper: [http://arxiv.org/abs/2210.00278v1](http://arxiv.org/abs/2210.00278v1)
 - 2022-09-30, **PyPose: A Library for Robot Learning with Physics-based Optimization**, Chen Wang et.al., Paper: [http://arxiv.org/abs/2209.15428v1](http://arxiv.org/abs/2209.15428v1), Code: **[https://github.com/pypose/pypose](https://github.com/pypose/pypose)**
 - 2022-09-29, **DirectTracker: 3D Multi-Object Tracking Using Direct Image Alignment and Photometric Bundle Adjustment**, Mariia Gladkova et.al., Paper: [http://arxiv.org/abs/2209.14965v1](http://arxiv.org/abs/2209.14965v1)
