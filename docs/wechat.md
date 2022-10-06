@@ -2,6 +2,7 @@
 
 ## Radar
 
+- 2022-10-05, **Coverage and Capacity of Joint Communication and Sensing in Wireless Networks**, Nicholas R. Olson et.al., Paper: [http://arxiv.org/abs/2210.02289v1](http://arxiv.org/abs/2210.02289v1)
 - 2022-10-04, **A Probabilistic Model for Aircraft in Climb using Monotonic Functional Gaussian Process Emulators**, Nick Pepper et.al., Paper: [http://arxiv.org/abs/2210.01445v1](http://arxiv.org/abs/2210.01445v1)
 - 2022-10-04, **Sub-millimetre wave range-Doppler radar as a diagnostic tool for gas-solids systems -- solids concentration measurements**, Marlene Bonmann et.al., Paper: [http://arxiv.org/abs/2210.01409v1](http://arxiv.org/abs/2210.01409v1)
 - 2022-10-04, **ImmFusion: Robust mmWave-RGB Fusion for 3D Human Body Reconstruction in All Weather Conditions**, Anjun Chen et.al., Paper: [http://arxiv.org/abs/2210.01346v1](http://arxiv.org/abs/2210.01346v1)
@@ -114,6 +115,7 @@
 
 ## SLAM
 
+- 2022-10-05, **MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**, Hanwei Zhang et.al., Paper: [http://arxiv.org/abs/2210.02038v1](http://arxiv.org/abs/2210.02038v1)
 - 2022-10-04, **O2S: Open-source open shuttle**, Nwankwo Linus et.al., Paper: [http://arxiv.org/abs/2210.01627v1](http://arxiv.org/abs/2210.01627v1)
 - 2022-10-04, **Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**, Weiying Wang et.al., Paper: [http://arxiv.org/abs/2210.01320v1](http://arxiv.org/abs/2210.01320v1)
 - 2022-10-03, **Probabilistic Volumetric Fusion for Dense Monocular SLAM**, Antoni Rosinol et.al., Paper: [http://arxiv.org/abs/2210.01276v1](http://arxiv.org/abs/2210.01276v1)
