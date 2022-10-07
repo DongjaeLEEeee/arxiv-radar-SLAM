@@ -2,12 +2,14 @@
 layout: default
 ---
 
-## Updated on 2022.10.06
+## Updated on 2022.10.07
 
 ## Radar
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-06**|**On Integrated Sensing and Communication Waveforms with Tunable PAPR**|Ahmad Bazzi et.al.|[2210.02892v1](http://arxiv.org/abs/2210.02892v1)|null|
+|**2022-10-06**|**Exploiting NOMA and RIS in Integrated Sensing and Communication**|Jiakuo Zuo et.al.|[2210.02725v1](http://arxiv.org/abs/2210.02725v1)|null|
 |**2022-10-05**|**Coverage and Capacity of Joint Communication and Sensing in Wireless Networks**|Nicholas R. Olson et.al.|[2210.02289v1](http://arxiv.org/abs/2210.02289v1)|null|
 |**2022-10-04**|**A Probabilistic Model for Aircraft in Climb using Monotonic Functional Gaussian Process Emulators**|Nick Pepper et.al.|[2210.01445v1](http://arxiv.org/abs/2210.01445v1)|null|
 |**2022-10-04**|**Sub-millimetre wave range-Doppler radar as a diagnostic tool for gas-solids systems -- solids concentration measurements**|Marlene Bonmann et.al.|[2210.01409v1](http://arxiv.org/abs/2210.01409v1)|null|
@@ -123,6 +125,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-06**|**Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**|Kirill Mazur et.al.|[2210.03043v1](http://arxiv.org/abs/2210.03043v1)|null|
+|**2022-10-06**|**Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**|Osian Morgan et.al.|[2210.02642v1](http://arxiv.org/abs/2210.02642v1)|null|
 |**2022-10-05**|**MOTSLAM: MOT-assisted monocular dynamic SLAM using single-view depth estimation**|Hanwei Zhang et.al.|[2210.02038v1](http://arxiv.org/abs/2210.02038v1)|null|
 |**2022-10-04**|**O2S: Open-source open shuttle**|Nwankwo Linus et.al.|[2210.01627v1](http://arxiv.org/abs/2210.01627v1)|null|
 |**2022-10-04**|**Wi-Closure: Reliable and Efficient Search of Inter-robot Loop Closures Using Wireless Sensing**|Weiying Wang et.al.|[2210.01320v1](http://arxiv.org/abs/2210.01320v1)|null|
