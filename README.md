@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-07**|**Utilizing Explainable AI for improving the Performance of Neural Networks**|Huawei Sun et.al.|[2210.04686v1](http://arxiv.org/abs/2210.04686v1)|null|
+|**2022-10-09**|**A Beam-Space Active Sensing Scheme for Integrated Communication and Sensing Applications**|Saeid K. Dehkordi et.al.|[2210.04312v1](http://arxiv.org/abs/2210.04312v1)|null|
+|**2022-10-09**|**Cost-effective photonic super-resolution millimeter-wave joint radar-communication system using self-coherent detection**|Wenlin Bai et.al.|[2210.04280v1](http://arxiv.org/abs/2210.04280v1)|null|
+|**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-10-06**|**On Integrated Sensing and Communication Waveforms with Tunable PAPR**|Ahmad Bazzi et.al.|[2210.02892v1](http://arxiv.org/abs/2210.02892v1)|null|
 |**2022-10-06**|**Exploiting NOMA and RIS in Integrated Sensing and Communication**|Jiakuo Zuo et.al.|[2210.02725v1](http://arxiv.org/abs/2210.02725v1)|null|
 |**2022-10-05**|**Coverage and Capacity of Joint Communication and Sensing in Wireless Networks**|Nicholas R. Olson et.al.|[2210.02289v1](http://arxiv.org/abs/2210.02289v1)|null|
@@ -121,6 +125,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-10**|**Using Detection, Tracking and Prediction in Visual SLAM to Achieve Real-time Semantic Mapping of Dynamic Scenarios**|Xingyu Chen et.al.|[2210.04562v1](http://arxiv.org/abs/2210.04562v1)|null|
+|**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236v1](http://arxiv.org/abs/2210.04236v1)|null|
 |**2022-10-06**|**SCORE: A Second-Order Conic Initialization for Range-Aided SLAM**|Alan Papalia et.al.|[2210.03177v1](http://arxiv.org/abs/2210.03177v1)|null|
 |**2022-10-06**|**Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding**|Kirill Mazur et.al.|[2210.03043v1](http://arxiv.org/abs/2210.03043v1)|null|
 |**2022-10-06**|**Feasibility on Detecting Door Slamming towards Monitoring Early Signs of Domestic Violence**|Osian Morgan et.al.|[2210.02642v1](http://arxiv.org/abs/2210.02642v1)|null|
