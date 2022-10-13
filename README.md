@@ -4,6 +4,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**Quantifying Uncertainty with Probabilistic Machine Learning Modeling in Wireless Sensing**|Amit Kachroo et.al.|[2210.06416v1](http://arxiv.org/abs/2210.06416v1)|null|
+|**2022-10-11**|**Cramer-Rao Lower Bound Optimization for Hidden Moving Target Sensing via Multi-IRS-Aided Radar**|Zahra Esmaeilbeig et.al.|[2210.05812v1](http://arxiv.org/abs/2210.05812v1)|null|
 |**2022-10-11**|**Estimation methods for elementary chirp model parameters**|Anjali Mittal et.al.|[2210.05162v1](http://arxiv.org/abs/2210.05162v1)|null|
 |**2022-10-07**|**Utilizing Explainable AI for improving the Performance of Neural Networks**|Huawei Sun et.al.|[2210.04686v1](http://arxiv.org/abs/2210.04686v1)|null|
 |**2022-10-09**|**A Beam-Space Active Sensing Scheme for Integrated Communication and Sensing Applications**|Saeid K. Dehkordi et.al.|[2210.04312v1](http://arxiv.org/abs/2210.04312v1)|null|
@@ -126,6 +128,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-12**|**RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**|Xuecheng Xu et.al.|[2210.05984v1](http://arxiv.org/abs/2210.05984v1)|**[link](https://github.com/MaverickPeter/MR_SLAM)**|
 |**2022-10-11**|**Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**|Yuanzheng He et.al.|[2210.05600v1](http://arxiv.org/abs/2210.05600v1)|null|
 |**2022-10-11**|**Autonomous Asteroid Characterization Through Nanosatellite Swarming**|Kaitlin Dennison et.al.|[2210.05518v1](http://arxiv.org/abs/2210.05518v1)|null|
 |**2022-10-11**|**DeepMLE: A Robust Deep Maximum Likelihood Estimator for Two-view Structure from Motion**|Yuxi Xiao et.al.|[2210.05517v1](http://arxiv.org/abs/2210.05517v1)|null|
