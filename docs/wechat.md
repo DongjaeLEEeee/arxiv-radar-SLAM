@@ -2,6 +2,7 @@
 
 ## Radar
 
+- 2022-10-14, **Variational Message Passing-based Respiratory Motion Estimation and Detection Using Radar Signals**, Jakob Möderl et.al., Paper: [http://arxiv.org/abs/2210.07619v1](http://arxiv.org/abs/2210.07619v1)
 - 2022-10-13, **Measurement Testbed for Radar and Emitter Localization of UAV at 3.75 GHz**, Julia Beuster et.al., Paper: [http://arxiv.org/abs/2210.07168v1](http://arxiv.org/abs/2210.07168v1)
 - 2022-10-13, **Contrastive Psudo-supervised Classification for Intra-Pulse Modulation of Radar Emitter Signals Using data augmentation**, HanCong Feng et.al., Paper: [http://arxiv.org/abs/2210.06973v1](http://arxiv.org/abs/2210.06973v1)
 - 2022-10-12, **Quantifying Uncertainty with Probabilistic Machine Learning Modeling in Wireless Sensing**, Amit Kachroo et.al., Paper: [http://arxiv.org/abs/2210.06416v1](http://arxiv.org/abs/2210.06416v1)
@@ -126,6 +127,7 @@
 
 ## SLAM
 
+- 2022-10-13, **Design and Evaluation of a Generic Visual SLAM Framework for Multi-Camera Systems**, Pushyami Kaveti et.al., Paper: [http://arxiv.org/abs/2210.07315v1](http://arxiv.org/abs/2210.07315v1)
 - 2022-10-12, **RING++: Roto-translation Invariant Gram for Global Localization on a Sparse Scan Map**, Xuecheng Xu et.al., Paper: [http://arxiv.org/abs/2210.05984v1](http://arxiv.org/abs/2210.05984v1), Code: **[https://github.com/MaverickPeter/MR_SLAM](https://github.com/MaverickPeter/MR_SLAM)**
 - 2022-10-11, **Observability Analysis of Graph SLAM-Based Joint Calibration of Multiple Microphone Arrays and Sound Source Localization**, Yuanzheng He et.al., Paper: [http://arxiv.org/abs/2210.05600v1](http://arxiv.org/abs/2210.05600v1)
 - 2022-10-11, **Autonomous Asteroid Characterization Through Nanosatellite Swarming**, Kaitlin Dennison et.al., Paper: [http://arxiv.org/abs/2210.05518v1](http://arxiv.org/abs/2210.05518v1)
