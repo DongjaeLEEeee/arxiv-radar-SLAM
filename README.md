@@ -1,9 +1,10 @@
-## Updated on 2022.10.19
+## Updated on 2022.10.20
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-18**|**Soil moisture estimation from Sentinel-1 interferometric observations over arid regions**|Kleanthis Karamvasis et.al.|[2210.10665v1](http://arxiv.org/abs/2210.10665v1)|null|
 |**2022-10-18**|**CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection**|Jyh-Jing Hwang et.al.|[2210.09267v2](http://arxiv.org/abs/2210.09267v2)|null|
 |**2022-10-17**|**Heterogeneous Feature Distillation Network for SAR Image Semantic Segmentation**|Gao Mengyu et.al.|[2210.08988v1](http://arxiv.org/abs/2210.08988v1)|null|
 |**2022-10-15**|**mRI: Multi-modal 3D Human Pose Estimation Dataset using mmWave, RGB-D, and Inertial Sensors**|Sizhe An et.al.|[2210.08394v1](http://arxiv.org/abs/2210.08394v1)|null|
@@ -135,6 +136,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani et.al.|[2210.10491v1](http://arxiv.org/abs/2210.10491v1)|null|
 |**2022-10-18**|**Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**|Geon Choi et.al.|[2210.09636v1](http://arxiv.org/abs/2210.09636v1)|null|
 |**2022-10-16**|**D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**|Ayman Beghdadi et.al.|[2210.08647v1](http://arxiv.org/abs/2210.08647v1)|null|
 |**2022-10-16**|**Indoor Smartphone SLAM with Learned Echoic Location Features**|Wenjie Luo et.al.|[2210.08493v1](http://arxiv.org/abs/2210.08493v1)|null|
