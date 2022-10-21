@@ -4,6 +4,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-20**|**How can a Radar Mask its Cognition?**|Kunal Pattanayak et.al.|[2210.11444v1](http://arxiv.org/abs/2210.11444v1)|null|
+|**2022-10-18**|**Millimeter-level Resolution Photonic Multiband Radar Using a Single MZM and Sub-GHz-Bandwidth Electronics**|Peixuan Li et.al.|[2210.11410v1](http://arxiv.org/abs/2210.11410v1)|null|
+|**2022-10-19**|**Joint Transmit and Receive Beamforming Design in Full-Duplex Integrated Sensing and Communications**|Ziang Liu et.al.|[2210.10904v1](http://arxiv.org/abs/2210.10904v1)|null|
 |**2022-10-18**|**Soil moisture estimation from Sentinel-1 interferometric observations over arid regions**|Kleanthis Karamvasis et.al.|[2210.10665v1](http://arxiv.org/abs/2210.10665v1)|null|
 |**2022-10-18**|**CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection**|Jyh-Jing Hwang et.al.|[2210.09267v2](http://arxiv.org/abs/2210.09267v2)|null|
 |**2022-10-17**|**Heterogeneous Feature Distillation Network for SAR Image Semantic Segmentation**|Gao Mengyu et.al.|[2210.08988v1](http://arxiv.org/abs/2210.08988v1)|null|
