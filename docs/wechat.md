@@ -1,7 +1,11 @@
-> Updated on 2022.10.23
+> Updated on 2022.10.24
 
 ## Radar
 
+- 2022-10-21, **Neural Network-Based Multi-Target Detection within Correlated Heavy-Tailed Clutter**, Stefan Feintuch et.al., Paper: [http://arxiv.org/abs/2210.12042v1](http://arxiv.org/abs/2210.12042v1)
+- 2022-10-21, **RIS-Enabled Passive Radar towards Target Localization**, Ahmad Bazzi et.al., Paper: [http://arxiv.org/abs/2210.11887v1](http://arxiv.org/abs/2210.11887v1)
+- 2022-10-21, **Characterization of Multi-Link Propagation and Bistatic Target Reflectivity for Distributed ISAC**, Reiner S. Thomä et.al., Paper: [http://arxiv.org/abs/2210.11840v1](http://arxiv.org/abs/2210.11840v1)
+- 2022-10-21, **Improving the Anomaly Detection in GPR Images by Fine-Tuning CNNs with Synthetic Data**, Xiren Zhou et.al., Paper: [http://arxiv.org/abs/2210.11833v1](http://arxiv.org/abs/2210.11833v1)
 - 2022-10-20, **How can a Radar Mask its Cognition?**, Kunal Pattanayak et.al., Paper: [http://arxiv.org/abs/2210.11444v1](http://arxiv.org/abs/2210.11444v1)
 - 2022-10-18, **Millimeter-level Resolution Photonic Multiband Radar Using a Single MZM and Sub-GHz-Bandwidth Electronics**, Peixuan Li et.al., Paper: [http://arxiv.org/abs/2210.11410v1](http://arxiv.org/abs/2210.11410v1)
 - 2022-10-19, **Joint Transmit and Receive Beamforming Design in Full-Duplex Integrated Sensing and Communications**, Ziang Liu et.al., Paper: [http://arxiv.org/abs/2210.10904v1](http://arxiv.org/abs/2210.10904v1)
@@ -135,6 +139,8 @@
 
 ## SLAM
 
+- 2022-10-21, **DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**, Shipeng Zhong et.al., Paper: [http://arxiv.org/abs/2210.11978v1](http://arxiv.org/abs/2210.11978v1)
+- 2022-10-21, **Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**, Shubham Kedia et.al., Paper: [http://arxiv.org/abs/2210.11652v1](http://arxiv.org/abs/2210.11652v1)
 - 2022-10-19, **Visual SLAM: What are the Current Trends and What to Expect?**, Ali Tourani et.al., Paper: [http://arxiv.org/abs/2210.10491v1](http://arxiv.org/abs/2210.10491v1)
 - 2022-10-18, **Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**, Geon Choi et.al., Paper: [http://arxiv.org/abs/2210.09636v1](http://arxiv.org/abs/2210.09636v1)
 - 2022-10-16, **D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**, Ayman Beghdadi et.al., Paper: [http://arxiv.org/abs/2210.08647v1](http://arxiv.org/abs/2210.08647v1)
