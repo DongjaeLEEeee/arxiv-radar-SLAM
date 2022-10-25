@@ -1,9 +1,16 @@
-## Updated on 2022.10.24
+## Updated on 2022.10.25
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-24**|**Spin State Evolution of (99942) Apophis during its 2029 Earth Encounter**|C. J. Benson et.al.|[2210.13365v1](http://arxiv.org/abs/2210.13365v1)|null|
+|**2022-10-24**|**A Novel Antenna Placement Algorithm for Compressive Sensing MIMO Radar**|Bastian Eisele et.al.|[2210.13345v1](http://arxiv.org/abs/2210.13345v1)|null|
+|**2022-10-24**|**mm-Wave Radar Hand Shape Classification Using Deformable Transformers**|Athmanarayanan Lakshmi Narayanan et.al.|[2210.13079v1](http://arxiv.org/abs/2210.13079v1)|null|
+|**2022-10-24**|**Radiation of ionization electrons: the key role of their 2-pt function of velocities**|Olivier Deligny et.al.|[2210.13074v1](http://arxiv.org/abs/2210.13074v1)|null|
+|**2022-10-24**|**Hypothesis Test Procedures for Detecting Leakage Signals in Water Pipeline Channels**|Liusha Yang et.al.|[2210.13032v1](http://arxiv.org/abs/2210.13032v1)|null|
+|**2022-10-22**|**HuPR: A Benchmark for Human Pose Estimation Using Millimeter Wave Radar**|Shih-Po Lee et.al.|[2210.12564v1](http://arxiv.org/abs/2210.12564v1)|null|
+|**2022-10-22**|**Performance Analysis of the Full-Duplex Communicating-Radar Convergence System**|Yinghong Guo et.al.|[2210.12358v1](http://arxiv.org/abs/2210.12358v1)|null|
 |**2022-10-21**|**Neural Network-Based Multi-Target Detection within Correlated Heavy-Tailed Clutter**|Stefan Feintuch et.al.|[2210.12042v1](http://arxiv.org/abs/2210.12042v1)|null|
 |**2022-10-21**|**RIS-Enabled Passive Radar towards Target Localization**|Ahmad Bazzi et.al.|[2210.11887v1](http://arxiv.org/abs/2210.11887v1)|null|
 |**2022-10-21**|**Characterization of Multi-Link Propagation and Bistatic Target Reflectivity for Distributed ISAC**|Reiner S. Thomä et.al.|[2210.11840v1](http://arxiv.org/abs/2210.11840v1)|null|
@@ -143,9 +150,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-23**|**VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**|Andreas Georgis et.al.|[2210.12756v1](http://arxiv.org/abs/2210.12756v1)|null|
+|**2022-10-22**|**SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation**|Junliang Chen et.al.|[2210.12417v1](http://arxiv.org/abs/2210.12417v1)|null|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|null|
 |**2022-10-21**|**Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**|Shubham Kedia et.al.|[2210.11652v1](http://arxiv.org/abs/2210.11652v1)|null|
-|**2022-10-19**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani et.al.|[2210.10491v1](http://arxiv.org/abs/2210.10491v1)|null|
+|**2022-10-22**|**Visual SLAM: What are the Current Trends and What to Expect?**|Ali Tourani et.al.|[2210.10491v2](http://arxiv.org/abs/2210.10491v2)|null|
 |**2022-10-18**|**Split-KalmanNet: A Robust Model-Based Deep Learning Approach for SLAM**|Geon Choi et.al.|[2210.09636v1](http://arxiv.org/abs/2210.09636v1)|null|
 |**2022-10-16**|**D2SLAM: Semantic visual SLAM based on the influence of Depth for Dynamic environments**|Ayman Beghdadi et.al.|[2210.08647v1](http://arxiv.org/abs/2210.08647v1)|null|
 |**2022-10-16**|**Indoor Smartphone SLAM with Learned Echoic Location Features**|Wenjie Luo et.al.|[2210.08493v1](http://arxiv.org/abs/2210.08493v1)|null|
