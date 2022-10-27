@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-10-26**|**Integrated Sensing and Communication in Distributed Antenna Networks**|Dongfang Xu et.al.|[2210.14880v1](http://arxiv.org/abs/2210.14880v1)|null|
+|**2022-10-26**|**A Nonlinear Sum of Squares Search for CAZAC Sequences**|Mark Magsino et.al.|[2210.14827v1](http://arxiv.org/abs/2210.14827v1)|null|
+|**2022-10-26**|**Uncertainty-based Meta-Reinforcement Learning for Robust Radar Tracking**|Julius Ott et.al.|[2210.14532v1](http://arxiv.org/abs/2210.14532v1)|null|
+|**2022-10-26**|**Joint Waveform and Passive Beamformer Design in Multi-IRS Aided Radar**|Zahra Esmaeilbeig et.al.|[2210.14458v1](http://arxiv.org/abs/2210.14458v1)|null|
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
 |**2022-10-25**|**Aboveground carbon biomass estimate with Physics-informed deep network**|Juan Nathaniel et.al.|[2210.13752v1](http://arxiv.org/abs/2210.13752v1)|null|
 |**2022-10-24**|**Depth Monocular Estimation with Attention-based Encoder-Decoder Network from Single Image**|Xin Zhang et.al.|[2210.13646v1](http://arxiv.org/abs/2210.13646v1)|null|
