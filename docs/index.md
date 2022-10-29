@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.28
+## Updated on 2022.10.29
 
 ## Radar
 
@@ -11,7 +11,7 @@ layout: default
 |**2022-10-27**|**Beamforming Design for Integrated Sensing and Wireless Power Transfer Systems**|Qianyu Yang et.al.|[2210.15216v1](http://arxiv.org/abs/2210.15216v1)|null|
 |**2022-10-26**|**Three more Decades in Array Signal Processing Research: An Optimization and Structure Exploitation Perspective**|Marius Pesavento et.al.|[2210.15012v1](http://arxiv.org/abs/2210.15012v1)|null|
 |**2022-10-26**|**Integrated Sensing and Communication in Distributed Antenna Networks**|Dongfang Xu et.al.|[2210.14880v1](http://arxiv.org/abs/2210.14880v1)|null|
-|**2022-10-26**|**A Nonlinear Sum of Squares Search for CAZAC Sequences**|Mark Magsino et.al.|[2210.14827v1](http://arxiv.org/abs/2210.14827v1)|null|
+|**2022-10-26**|**A Nonlinear Sum of Squares Search for CAZAC Sequences**|Mark Magsino et.al.|[2210.14827v1](http://arxiv.org/abs/2210.14827v1)|**[link](https://github.com/magsino-usna/ieee-sos-cazac)**|
 |**2022-10-26**|**Uncertainty-based Meta-Reinforcement Learning for Robust Radar Tracking**|Julius Ott et.al.|[2210.14532v1](http://arxiv.org/abs/2210.14532v1)|null|
 |**2022-10-26**|**Joint Waveform and Passive Beamformer Design in Multi-IRS Aided Radar**|Zahra Esmaeilbeig et.al.|[2210.14458v1](http://arxiv.org/abs/2210.14458v1)|null|
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
