@@ -2,18 +2,19 @@
 layout: default
 ---
 
-## Updated on 2022.10.30
+## Updated on 2022.10.31
 
 ## Radar
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2022-10-27**|**Beamforming Design for Integrated Sensing and Wireless Power Transfer Systems**|Qianyu Yang et.al.|[2210.15216v1](http://arxiv.org/abs/2210.15216v1)|null|
+|**2022-10-28**|**Deep Learning-Based Anomaly Detection in Synthetic Aperture Radar Imaging**|Max Muzeau et.al.|[2210.16038v1](http://arxiv.org/abs/2210.16038v1)|null|
+|**2022-10-28**|**Beamforming Design for Integrated Sensing and Wireless Power Transfer Systems**|Qianyu Yang et.al.|[2210.15216v2](http://arxiv.org/abs/2210.15216v2)|null|
 |**2022-10-26**|**Three more Decades in Array Signal Processing Research: An Optimization and Structure Exploitation Perspective**|Marius Pesavento et.al.|[2210.15012v1](http://arxiv.org/abs/2210.15012v1)|null|
 |**2022-10-26**|**Integrated Sensing and Communication in Distributed Antenna Networks**|Dongfang Xu et.al.|[2210.14880v1](http://arxiv.org/abs/2210.14880v1)|null|
 |**2022-10-26**|**A Nonlinear Sum of Squares Search for CAZAC Sequences**|Mark Magsino et.al.|[2210.14827v1](http://arxiv.org/abs/2210.14827v1)|**[link](https://github.com/magsino-usna/ieee-sos-cazac)**|
 |**2022-10-26**|**Uncertainty-based Meta-Reinforcement Learning for Robust Radar Tracking**|Julius Ott et.al.|[2210.14532v1](http://arxiv.org/abs/2210.14532v1)|null|
-|**2022-10-26**|**Joint Waveform and Passive Beamformer Design in Multi-IRS Aided Radar**|Zahra Esmaeilbeig et.al.|[2210.14458v1](http://arxiv.org/abs/2210.14458v1)|null|
+|**2022-10-27**|**Joint Waveform and Passive Beamformer Design in Multi-IRS Aided Radar**|Zahra Esmaeilbeig et.al.|[2210.14458v2](http://arxiv.org/abs/2210.14458v2)|null|
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
 |**2022-10-25**|**Aboveground carbon biomass estimate with Physics-informed deep network**|Juan Nathaniel et.al.|[2210.13752v1](http://arxiv.org/abs/2210.13752v1)|null|
 |**2022-10-24**|**Depth Monocular Estimation with Attention-based Encoder-Decoder Network from Single Image**|Xin Zhang et.al.|[2210.13646v1](http://arxiv.org/abs/2210.13646v1)|null|
@@ -167,7 +168,7 @@ layout: default
 |**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|**[link](https://github.com/pengyu-team/s3e)**|
 |**2022-10-24**|**NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields**|Antoni Rosinol et.al.|[2210.13641v1](http://arxiv.org/abs/2210.13641v1)|null|
 |**2022-10-24**|**Compact simultaneous label-free autofluorescence multi-harmonic (SLAM) microscopy for user-friendly photodamage-monitored imaging**|Geng Wang et.al.|[2210.13556v1](http://arxiv.org/abs/2210.13556v1)|null|
-|**2022-10-23**|**VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**|Andreas Georgis et.al.|[2210.12756v1](http://arxiv.org/abs/2210.12756v1)|null|
+|**2022-10-28**|**VP-SLAM: A Monocular Real-time Visual SLAM with Points, Lines and Vanishing Points**|Andreas Georgis et.al.|[2210.12756v2](http://arxiv.org/abs/2210.12756v2)|null|
 |**2022-10-22**|**SLAM: Semantic Learning based Activation Map for Weakly Supervised Semantic Segmentation**|Junliang Chen et.al.|[2210.12417v1](http://arxiv.org/abs/2210.12417v1)|null|
 |**2022-10-21**|**DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm**|Shipeng Zhong et.al.|[2210.11978v1](http://arxiv.org/abs/2210.11978v1)|**[link](https://github.com/pengyu-team/dcl-slam)**|
 |**2022-10-21**|**Motion Primitives Based Kinodynamic RRT for Autonomous Vehicle Navigation in Complex Environments**|Shubham Kedia et.al.|[2210.11652v1](http://arxiv.org/abs/2210.11652v1)|null|
