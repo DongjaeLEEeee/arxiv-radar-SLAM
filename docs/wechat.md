@@ -2,7 +2,11 @@
 
 ## Radar
 
-- 2022-10-28, **Impact of PolSAR pre-processing and balancing methods on complex-valued neural networks segmentation tasks**, José Agustin Barrachina et.al., Paper: [http://arxiv.org/abs/2210.17419v1](http://arxiv.org/abs/2210.17419v1)
+- 2022-11-01, **On the Performance Gain of Integrated Sensing and Communications: A Subspace Correlation Perspective**, Shihang Lu et.al., Paper: [http://arxiv.org/abs/2211.00434v1](http://arxiv.org/abs/2211.00434v1)
+- 2022-11-01, **HDNet: Hierarchical Dynamic Network for Gait Recognition using Millimeter-Wave Radar**, Yanyan Huang et.al., Paper: [http://arxiv.org/abs/2211.00312v1](http://arxiv.org/abs/2211.00312v1)
+- 2022-11-01, **Binary sequence set optimization for CDMA applications via mixed-integer quadratic programming**, Alan Yang et.al., Paper: [http://arxiv.org/abs/2211.00285v1](http://arxiv.org/abs/2211.00285v1)
+- 2022-11-01, **Full-Duplex Communication for ISAC: Joint Beamforming and Power Optimization**, Zhenyao He et.al., Paper: [http://arxiv.org/abs/2211.00229v1](http://arxiv.org/abs/2211.00229v1)
+- 2022-10-28, **Impact of PolSAR pre-processing and balancing methods on complex-valued neural networks segmentation tasks**, José Agustin Barrachina et.al., Paper: [http://arxiv.org/abs/2210.17419v1](http://arxiv.org/abs/2210.17419v1), Code: **[https://github.com/negu93/cvnn-polsar](https://github.com/negu93/cvnn-polsar)**
 - 2022-11-01, **RIS-Based Steerable Beamforming Antenna with Near-Field Eigenmode Feeder**, Krishan K. Tiwari et.al., Paper: [http://arxiv.org/abs/2210.17239v2](http://arxiv.org/abs/2210.17239v2)
 - 2022-10-31, **Mapping Extended Landmarks for Radar SLAM**, Shuai Sun et.al., Paper: [http://arxiv.org/abs/2210.17207v1](http://arxiv.org/abs/2210.17207v1)
 - 2022-10-30, **Transmit Optimization for Multi-functional MIMO Systems Integrating Sensing, Communication, and Powering**, Yilong Chen et.al., Paper: [http://arxiv.org/abs/2210.16716v1](http://arxiv.org/abs/2210.16716v1)
