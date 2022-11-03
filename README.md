@@ -1,10 +1,10 @@
-## Updated on 2022.11.02
+## Updated on 2022.11.03
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2022-11-01**|**On the Performance Gain of Integrated Sensing and Communications: A Subspace Correlation Perspective**|Shihang Lu et.al.|[2211.00434v1](http://arxiv.org/abs/2211.00434v1)|null|
+|**2022-11-02**|**On the Performance Gain of Integrated Sensing and Communications: A Subspace Correlation Perspective**|Shihang Lu et.al.|[2211.00434v2](http://arxiv.org/abs/2211.00434v2)|null|
 |**2022-11-01**|**HDNet: Hierarchical Dynamic Network for Gait Recognition using Millimeter-Wave Radar**|Yanyan Huang et.al.|[2211.00312v1](http://arxiv.org/abs/2211.00312v1)|null|
 |**2022-11-01**|**Binary sequence set optimization for CDMA applications via mixed-integer quadratic programming**|Alan Yang et.al.|[2211.00285v1](http://arxiv.org/abs/2211.00285v1)|null|
 |**2022-11-01**|**Full-Duplex Communication for ISAC: Joint Beamforming and Power Optimization**|Zhenyao He et.al.|[2211.00229v1](http://arxiv.org/abs/2211.00229v1)|null|
