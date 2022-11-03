@@ -8,6 +8,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-02**|**Emerging Prototyping Activities in Joint Radar-Communications**|Bhavani Shankar M. R. et.al.|[2211.01309v1](http://arxiv.org/abs/2211.01309v1)|null|
+|**2022-11-02**|**Machine Learning for Metasurfaces Design and Their Applications**|Kumar Vijay Mishra et.al.|[2211.01296v1](http://arxiv.org/abs/2211.01296v1)|null|
+|**2022-11-02**|**Modern GPR Target Recognition Methods**|Fabio Giovanneschi et.al.|[2211.01277v1](http://arxiv.org/abs/2211.01277v1)|null|
+|**2022-11-02**|**a-RNA: Adversarial Radio Noise Attack to Fool Radar-based Environment Perception Systems**|Amira Guesmi et.al.|[2211.01112v1](http://arxiv.org/abs/2211.01112v1)|null|
+|**2022-11-02**|**Thunderstorm nowcasting with deep learning: a multi-hazard data fusion model**|Jussi Leinonen et.al.|[2211.01001v1](http://arxiv.org/abs/2211.01001v1)|**[link](https://github.com/meteoswiss/c4dl-multi)**|
 |**2022-11-02**|**On the Performance Gain of Integrated Sensing and Communications: A Subspace Correlation Perspective**|Shihang Lu et.al.|[2211.00434v2](http://arxiv.org/abs/2211.00434v2)|null|
 |**2022-11-01**|**HDNet: Hierarchical Dynamic Network for Gait Recognition using Millimeter-Wave Radar**|Yanyan Huang et.al.|[2211.00312v1](http://arxiv.org/abs/2211.00312v1)|null|
 |**2022-11-01**|**Binary sequence set optimization for CDMA applications via mixed-integer quadratic programming**|Alan Yang et.al.|[2211.00285v1](http://arxiv.org/abs/2211.00285v1)|null|
@@ -172,6 +177,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-02**|**Semantic SuperPoint: A Deep Semantic Descriptor**|Gabriel S. Gama et.al.|[2211.01098v1](http://arxiv.org/abs/2211.01098v1)|**[link](https://github.com/gabriel-sgama/semantic-superpoint)**|
+|**2022-11-02**|**Ambiguity-Aware Multi-Object Pose Optimization for Visually-Assisted Robot Manipulation**|Myung-Hwan Jeon et.al.|[2211.00960v1](http://arxiv.org/abs/2211.00960v1)|**[link](https://github.com/rpmsnu/prima6d)**|
 |**2022-10-31**|**Mapping Extended Landmarks for Radar SLAM**|Shuai Sun et.al.|[2210.17207v1](http://arxiv.org/abs/2210.17207v1)|null|
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797v1](http://arxiv.org/abs/2210.13797v1)|null|
 |**2022-10-25**|**S3E: A Large-scale Multimodal Dataset for Collaborative SLAM**|Dapeng Feng et.al.|[2210.13723v1](http://arxiv.org/abs/2210.13723v1)|**[link](https://github.com/pengyu-team/s3e)**|
