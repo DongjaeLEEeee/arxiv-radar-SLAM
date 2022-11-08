@@ -1,8 +1,8 @@
-> Updated on 2022.11.07
+> Updated on 2022.11.08
 
 ## Radar
 
-- 2022-11-04, **Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**, Daniel Adolfsson et.al., Paper: [http://arxiv.org/abs/2211.02445v1](http://arxiv.org/abs/2211.02445v1)
+- 2022-11-07, **Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**, Daniel Adolfsson et.al., Paper: [http://arxiv.org/abs/2211.02445v2](http://arxiv.org/abs/2211.02445v2), Code: **[https://github.com/dan11003/CFEAR_Radarodometry](https://github.com/dan11003/CFEAR_Radarodometry)**
 - 2022-11-04, **RCDPT: Radar-Camera fusion Dense Prediction Transformer**, Chen-Chou Lo et.al., Paper: [http://arxiv.org/abs/2211.02432v1](http://arxiv.org/abs/2211.02432v1)
 - 2022-11-04, **Quantum Man-in-the-middle Attacks: a Game-theoretic Approach with Applications to Radars**, YInan Hu et.al., Paper: [http://arxiv.org/abs/2211.02228v1](http://arxiv.org/abs/2211.02228v1)
 - 2022-11-03, **Twenty-Five Years of Advances in Beamforming: From Convex and Nonconvex Optimization to Learning Techniques**, Ahmet M. Elbir et.al., Paper: [http://arxiv.org/abs/2211.02165v1](http://arxiv.org/abs/2211.02165v1)
@@ -176,7 +176,7 @@
 
 ## SLAM
 
-- 2022-11-04, **Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**, Daniel Adolfsson et.al., Paper: [http://arxiv.org/abs/2211.02445v1](http://arxiv.org/abs/2211.02445v1)
+- 2022-11-07, **Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments**, Daniel Adolfsson et.al., Paper: [http://arxiv.org/abs/2211.02445v2](http://arxiv.org/abs/2211.02445v2), Code: **[https://github.com/dan11003/CFEAR_Radarodometry](https://github.com/dan11003/CFEAR_Radarodometry)**
 - 2022-11-03, **DyOb-SLAM : Dynamic Object Tracking SLAM System**, Rushmian Annoy Wadud et.al., Paper: [http://arxiv.org/abs/2211.01941v1](http://arxiv.org/abs/2211.01941v1)
 - 2022-11-03, **Enhanced Visual Feedback with Decoupled Viewpoint Control in Immersive Humanoid Robot Teleoperation using SLAM**, Yang Chen et.al., Paper: [http://arxiv.org/abs/2211.01749v1](http://arxiv.org/abs/2211.01749v1)
 - 2022-11-04, **$D^2$SLAM: Decentralized and Distributed Collaborative Visual-inertial SLAM System for Aerial Swarm**, Hao Xu et.al., Paper: [http://arxiv.org/abs/2211.01538v2](http://arxiv.org/abs/2211.01538v2)
