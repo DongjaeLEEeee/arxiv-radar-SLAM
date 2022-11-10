@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-09**|**MAGAL Constellation -- Using a Small Satellite Altimeter Constellation to Monitor Local and Regional Ocean and Inland Water Variations**|André G. C. Guerra et.al.|[2211.05017v1](http://arxiv.org/abs/2211.05017v1)|null|
+|**2022-11-08**|**Millimeter-Wave Radar Beamforming with Spatial Path Index Modulation Communications**|Ahmet M. Elbir et.al.|[2211.04540v1](http://arxiv.org/abs/2211.04540v1)|null|
+|**2022-11-08**|**Physics-informed inference of aerial animal movements from weather radar data**|Fiona Lippert et.al.|[2211.04539v1](http://arxiv.org/abs/2211.04539v1)|null|
 |**2022-11-08**|**Developing a data fusion concept for radar and optical ground based SST station**|Bruno Coelho et.al.|[2211.04443v1](http://arxiv.org/abs/2211.04443v1)|null|
 |**2022-11-08**|**Eat-Radar: Continuous Fine-Grained Eating Gesture Detection Using FMCW Radar and 3D Temporal Convolutional Network**|Chunzhuo Wang et.al.|[2211.04253v1](http://arxiv.org/abs/2211.04253v1)|null|
 |**2022-11-08**|**Intelligent Surface Enabled Sensing-Assisted Communication**|Kaitao Meng et.al.|[2211.04200v1](http://arxiv.org/abs/2211.04200v1)|null|
