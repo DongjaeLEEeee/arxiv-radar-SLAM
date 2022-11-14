@@ -2,6 +2,8 @@
 
 ## Radar
 
+- 2022-11-11, **Sensor Visibility Estimation: Metrics and Methods for Systematic Performance Evaluation and Improvement**, Joachim Börger et.al., Paper: [http://arxiv.org/abs/2211.06308v1](http://arxiv.org/abs/2211.06308v1)
+- 2022-11-11, **RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System**, Yanlong Yang et.al., Paper: [http://arxiv.org/abs/2211.06108v1](http://arxiv.org/abs/2211.06108v1)
 - 2022-11-10, **Demonstration of Quantum Advantage in Microwave Quantum Radar**, Réouven Assouly et.al., Paper: [http://arxiv.org/abs/2211.05684v1](http://arxiv.org/abs/2211.05684v1)
 - 2022-11-09, **MAGAL Constellation -- Using a Small Satellite Altimeter Constellation to Monitor Local and Regional Ocean and Inland Water Variations**, André G. C. Guerra et.al., Paper: [http://arxiv.org/abs/2211.05017v1](http://arxiv.org/abs/2211.05017v1)
 - 2022-11-08, **Millimeter-Wave Radar Beamforming with Spatial Path Index Modulation Communications**, Ahmet M. Elbir et.al., Paper: [http://arxiv.org/abs/2211.04540v1](http://arxiv.org/abs/2211.04540v1)
@@ -188,6 +190,7 @@
 
 ## SLAM
 
+- 2022-11-11, **Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2211.05982v1](http://arxiv.org/abs/2211.05982v1)
 - 2022-11-10, **Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**, Ignacio Torroba et.al., Paper: [http://arxiv.org/abs/2211.05601v1](http://arxiv.org/abs/2211.05601v1)
 - 2022-11-07, **When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**, Gerhard Kurz et.al., Paper: [http://arxiv.org/abs/2211.03484v1](http://arxiv.org/abs/2211.03484v1)
 - 2022-11-07, **Detecting Invalid Map Merges in Lifelong SLAM**, Matthias Holoch et.al., Paper: [http://arxiv.org/abs/2211.03423v1](http://arxiv.org/abs/2211.03423v1)
