@@ -1,4 +1,4 @@
-> Updated on 2022.11.14
+> Updated on 2022.11.15
 
 ## Radar
 
@@ -10,7 +10,7 @@
 - 2022-11-08, **Physics-informed inference of aerial animal movements from weather radar data**, Fiona Lippert et.al., Paper: [http://arxiv.org/abs/2211.04539v1](http://arxiv.org/abs/2211.04539v1)
 - 2022-11-08, **Developing a data fusion concept for radar and optical ground based SST station**, Bruno Coelho et.al., Paper: [http://arxiv.org/abs/2211.04443v1](http://arxiv.org/abs/2211.04443v1)
 - 2022-11-08, **Eat-Radar: Continuous Fine-Grained Eating Gesture Detection Using FMCW Radar and 3D Temporal Convolutional Network**, Chunzhuo Wang et.al., Paper: [http://arxiv.org/abs/2211.04253v1](http://arxiv.org/abs/2211.04253v1)
-- 2022-11-08, **Intelligent Surface Enabled Sensing-Assisted Communication**, Kaitao Meng et.al., Paper: [http://arxiv.org/abs/2211.04200v1](http://arxiv.org/abs/2211.04200v1)
+- 2022-11-13, **Intelligent Surface Enabled Sensing-Assisted Communication**, Kaitao Meng et.al., Paper: [http://arxiv.org/abs/2211.04200v2](http://arxiv.org/abs/2211.04200v2)
 - 2022-11-08, **Integrated Sensing and Communication Beamforming Design Based on Mutual Information**, Jin Li et.al., Paper: [http://arxiv.org/abs/2211.04090v1](http://arxiv.org/abs/2211.04090v1)
 - 2022-11-07, **ATLAS: Deployment, Control Platform and First RSO Measurements**, João Pandeirada et.al., Paper: [http://arxiv.org/abs/2211.03586v1](http://arxiv.org/abs/2211.03586v1)
 - 2022-11-07, **Neural Architectural Nonlinear Pre-Processing for mmWave Radar-based Human Gesture Perception**, Hankyul Baek et.al., Paper: [http://arxiv.org/abs/2211.03502v1](http://arxiv.org/abs/2211.03502v1)
