@@ -4,6 +4,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-14**|**Lecture notes on the design of low-pass digital filters with wireless-communication applications**|Hugh L. Kennedy et.al.|[2211.07123v1](http://arxiv.org/abs/2211.07123v1)|null|
+|**2022-11-14**|**Hand gesture recognition using 802.11ad mmWave sensor in the mobile device**|Yuwei Ren et.al.|[2211.07090v1](http://arxiv.org/abs/2211.07090v1)|null|
+|**2022-11-13**|**Towards a performance bound on MIMO DFRC systems**|Ziheng Zheng et.al.|[2211.06979v1](http://arxiv.org/abs/2211.06979v1)|null|
+|**2022-11-13**|**Identifying Coordination in a Cognitive Radar Network -- A Multi-Objective Inverse Reinforcement Learning Approach**|Luke Snow et.al.|[2211.06967v1](http://arxiv.org/abs/2211.06967v1)|null|
+|**2022-11-13**|**Two-dimensional gridless super-resolution method for ISAR imaging**|Mohammad Roueinfar et.al.|[2211.06958v1](http://arxiv.org/abs/2211.06958v1)|null|
+|**2022-11-13**|**The Sun and Space Weather**|Nat Gopalswamy et.al.|[2211.06775v1](http://arxiv.org/abs/2211.06775v1)|null|
+|**2022-11-12**|**Design of Integrated Communication System under UAV Network**|Sang Wanchao et.al.|[2211.06559v1](http://arxiv.org/abs/2211.06559v1)|null|
 |**2022-11-11**|**Sensor Visibility Estimation: Metrics and Methods for Systematic Performance Evaluation and Improvement**|Joachim Börger et.al.|[2211.06308v1](http://arxiv.org/abs/2211.06308v1)|null|
 |**2022-11-11**|**RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection System**|Yanlong Yang et.al.|[2211.06108v1](http://arxiv.org/abs/2211.06108v1)|null|
 |**2022-11-10**|**Demonstration of Quantum Advantage in Microwave Quantum Radar**|Réouven Assouly et.al.|[2211.05684v1](http://arxiv.org/abs/2211.05684v1)|null|
@@ -194,6 +201,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-14**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v1](http://arxiv.org/abs/2211.07365v1)|**[link](https://github.com/lh9171338/FE-LSD)**|
+|**2022-11-13**|**Automatic Eye-in-Hand Calibration using EKF**|Aditya Ramakrishnan et.al.|[2211.06881v1](http://arxiv.org/abs/2211.06881v1)|null|
+|**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang et.al.|[2211.06557v1](http://arxiv.org/abs/2211.06557v1)|null|
 |**2022-11-11**|**Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**|Jie Yang et.al.|[2211.05982v1](http://arxiv.org/abs/2211.05982v1)|null|
 |**2022-11-10**|**Online Stochastic Variational Gaussian Process Mapping for Large-Scale SLAM in Real Time**|Ignacio Torroba et.al.|[2211.05601v1](http://arxiv.org/abs/2211.05601v1)|null|
 |**2022-11-07**|**When Geometry is not Enough: Using Reflector Markers in Lidar SLAM**|Gerhard Kurz et.al.|[2211.03484v1](http://arxiv.org/abs/2211.03484v1)|null|
