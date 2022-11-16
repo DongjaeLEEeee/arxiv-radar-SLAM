@@ -2,6 +2,10 @@
 
 ## Radar
 
+- 2022-11-15, **Reduced order modeling inversion of mono static data in a multi-scattering environment**, V. Druskin et.al., Paper: [http://arxiv.org/abs/2211.08319v1](http://arxiv.org/abs/2211.08319v1)
+- 2022-11-15, **Covariance-Based Hybrid Beamforming for Spectrally Efficient Joint Radar-Communications**, Evangelos Vlachos et.al., Paper: [http://arxiv.org/abs/2211.08308v1](http://arxiv.org/abs/2211.08308v1)
+- 2022-11-15, **A Framework for Mutual Information-based MIMO Integrated Sensing and Communication Beamforming Design**, Jin Li et.al., Paper: [http://arxiv.org/abs/2211.07887v1](http://arxiv.org/abs/2211.07887v1)
+- 2022-11-14, **MIBINET: Real-time Proctoring of Cardiovascular Inter-Beat-Intervals using a Multifaceted CNN from mm-Wave Ballistocardiography Signal**, Rafid Umayer Murshed et.al., Paper: [http://arxiv.org/abs/2211.07776v1](http://arxiv.org/abs/2211.07776v1)
 - 2022-11-14, **Lecture notes on the design of low-pass digital filters with wireless-communication applications**, Hugh L. Kennedy et.al., Paper: [http://arxiv.org/abs/2211.07123v1](http://arxiv.org/abs/2211.07123v1)
 - 2022-11-14, **Hand gesture recognition using 802.11ad mmWave sensor in the mobile device**, Yuwei Ren et.al., Paper: [http://arxiv.org/abs/2211.07090v1](http://arxiv.org/abs/2211.07090v1)
 - 2022-11-13, **Towards a performance bound on MIMO DFRC systems**, Ziheng Zheng et.al., Paper: [http://arxiv.org/abs/2211.06979v1](http://arxiv.org/abs/2211.06979v1)
