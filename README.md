@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-16**|**Convective boundary layer sensible and latent heat flux lidar observations and towards new model parametrizations**|Fabien Gibert et.al.|[2211.08785v1](http://arxiv.org/abs/2211.08785v1)|null|
+|**2022-11-16**|**A wind, temperature, H$_2$O and CO$_2$ scanning lidar mobile observatory for a 3D thermodynamic view of the atmosphere**|Fabien Gibert et.al.|[2211.08765v1](http://arxiv.org/abs/2211.08765v1)|null|
+|**2022-11-16**|**Wireless Communication Using Metal Reflectors: Reflection Modelling and Experimental Verification**|Zhi Yu et.al.|[2211.08626v1](http://arxiv.org/abs/2211.08626v1)|null|
+|**2022-11-15**|**Flexible Hybrid Beamforming for Spectrally Efficient 6G Joint Radar-Communications**|Aryan Kaushik et.al.|[2211.08454v1](http://arxiv.org/abs/2211.08454v1)|null|
 |**2022-11-15**|**Reduced order modeling inversion of mono static data in a multi-scattering environment**|V. Druskin et.al.|[2211.08319v1](http://arxiv.org/abs/2211.08319v1)|null|
 |**2022-11-15**|**Covariance-Based Hybrid Beamforming for Spectrally Efficient Joint Radar-Communications**|Evangelos Vlachos et.al.|[2211.08308v1](http://arxiv.org/abs/2211.08308v1)|null|
 |**2022-11-15**|**A Framework for Mutual Information-based MIMO Integrated Sensing and Communication Beamforming Design**|Jin Li et.al.|[2211.07887v1](http://arxiv.org/abs/2211.07887v1)|null|
@@ -205,6 +209,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu et.al.|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
 |**2022-11-14**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v1](http://arxiv.org/abs/2211.07365v1)|**[link](https://github.com/lh9171338/FE-LSD)**|
 |**2022-11-13**|**Automatic Eye-in-Hand Calibration using EKF**|Aditya Ramakrishnan et.al.|[2211.06881v1](http://arxiv.org/abs/2211.06881v1)|null|
 |**2022-11-12**|**Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**|Zhihao Wang et.al.|[2211.06557v1](http://arxiv.org/abs/2211.06557v1)|null|
