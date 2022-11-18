@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-17**|**Integrated Sensing and Communication for Large Networks using a Dynamic Transmission Strategy and Full Duplex**|Konpal Shaukat Ali et.al.|[2211.09466v1](http://arxiv.org/abs/2211.09466v1)|null|
+|**2022-11-17**|**aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception**|Tamás Matuszka et.al.|[2211.09445v1](http://arxiv.org/abs/2211.09445v1)|null|
+|**2022-11-16**|**Beurling-Selberg Extremization for Dual-Blind Deconvolution Recovery in Joint Radar-Communications**|Jonathan Monsalve et.al.|[2211.09253v1](http://arxiv.org/abs/2211.09253v1)|null|
 |**2022-11-16**|**Convective boundary layer sensible and latent heat flux lidar observations and towards new model parametrizations**|Fabien Gibert et.al.|[2211.08785v1](http://arxiv.org/abs/2211.08785v1)|null|
 |**2022-11-16**|**A wind, temperature, H$_2$O and CO$_2$ scanning lidar mobile observatory for a 3D thermodynamic view of the atmosphere**|Fabien Gibert et.al.|[2211.08765v1](http://arxiv.org/abs/2211.08765v1)|null|
 |**2022-11-16**|**Wireless Communication Using Metal Reflectors: Reflection Modelling and Experimental Verification**|Zhi Yu et.al.|[2211.08626v1](http://arxiv.org/abs/2211.08626v1)|null|
@@ -213,6 +216,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-16**|**Data Fusion for Multipath-Based SLAM**|Erik Leitinger et.al.|[2211.09241v1](http://arxiv.org/abs/2211.09241v1)|null|
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu et.al.|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
 |**2022-11-14**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v1](http://arxiv.org/abs/2211.07365v1)|**[link](https://github.com/lh9171338/FE-LSD)**|
 |**2022-11-13**|**Automatic Eye-in-Hand Calibration using EKF**|Aditya Ramakrishnan et.al.|[2211.06881v1](http://arxiv.org/abs/2211.06881v1)|null|
