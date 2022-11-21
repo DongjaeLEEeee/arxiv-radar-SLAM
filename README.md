@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-18**|**Deep learning based landslide density estimation on SAR data for rapid response**|Vanessa Boehm et.al.|[2211.10338v1](http://arxiv.org/abs/2211.10338v1)|null|
+|**2022-11-18**|**A Survey on Detection, Tracking, and Classification of Aerial Threats using Radars and Communications Systems**|Wahab Khawaja et.al.|[2211.10038v1](http://arxiv.org/abs/2211.10038v1)|null|
+|**2022-11-18**|**Automated turnkey microcomb for low-noise microwave synthesis**|Kunpeng Jia et.al.|[2211.10031v1](http://arxiv.org/abs/2211.10031v1)|null|
+|**2022-11-17**|**SAR-based landslide classification pretraining leads to better segmentation**|Vanessa Böhm et.al.|[2211.09927v1](http://arxiv.org/abs/2211.09927v1)|**[link](https://github.com/vmboehm/sar-landslide-detection-pretraining)**|
+|**2022-11-17**|**Measuring diameters and velocities of artificial raindrops with a neuromorphic dynamic vision sensor disdrometer**|Jan Steiner et.al.|[2211.09893v1](http://arxiv.org/abs/2211.09893v1)|null|
 |**2022-11-17**|**Integrated Sensing and Communication for Large Networks using a Dynamic Transmission Strategy and Full Duplex**|Konpal Shaukat Ali et.al.|[2211.09466v1](http://arxiv.org/abs/2211.09466v1)|null|
 |**2022-11-17**|**aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception**|Tamás Matuszka et.al.|[2211.09445v1](http://arxiv.org/abs/2211.09445v1)|**[link](https://github.com/aimotive/aimotive_dataset)**|
 |**2022-11-16**|**Beurling-Selberg Extremization for Dual-Blind Deconvolution Recovery in Joint Radar-Communications**|Jonathan Monsalve et.al.|[2211.09253v1](http://arxiv.org/abs/2211.09253v1)|null|
