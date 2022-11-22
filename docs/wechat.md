@@ -1,4 +1,4 @@
-> Updated on 2022.11.21
+> Updated on 2022.11.22
 
 ## Radar
 
@@ -9,7 +9,7 @@
 - 2022-11-17, **Measuring diameters and velocities of artificial raindrops with a neuromorphic dynamic vision sensor disdrometer**, Jan Steiner et.al., Paper: [http://arxiv.org/abs/2211.09893v1](http://arxiv.org/abs/2211.09893v1)
 - 2022-11-17, **Integrated Sensing and Communication for Large Networks using a Dynamic Transmission Strategy and Full Duplex**, Konpal Shaukat Ali et.al., Paper: [http://arxiv.org/abs/2211.09466v1](http://arxiv.org/abs/2211.09466v1)
 - 2022-11-17, **aiMotive Dataset: A Multimodal Dataset for Robust Autonomous Driving with Long-Range Perception**, Tamás Matuszka et.al., Paper: [http://arxiv.org/abs/2211.09445v1](http://arxiv.org/abs/2211.09445v1), Code: **[https://github.com/aimotive/aimotive_dataset](https://github.com/aimotive/aimotive_dataset)**
-- 2022-11-16, **Beurling-Selberg Extremization for Dual-Blind Deconvolution Recovery in Joint Radar-Communications**, Jonathan Monsalve et.al., Paper: [http://arxiv.org/abs/2211.09253v1](http://arxiv.org/abs/2211.09253v1)
+- 2022-11-18, **Beurling-Selberg Extremization for Dual-Blind Deconvolution Recovery in Joint Radar-Communications**, Jonathan Monsalve et.al., Paper: [http://arxiv.org/abs/2211.09253v2](http://arxiv.org/abs/2211.09253v2)
 - 2022-11-16, **Convective boundary layer sensible and latent heat flux lidar observations and towards new model parametrizations**, Fabien Gibert et.al., Paper: [http://arxiv.org/abs/2211.08785v1](http://arxiv.org/abs/2211.08785v1)
 - 2022-11-16, **A wind, temperature, H$_2$O and CO$_2$ scanning lidar mobile observatory for a 3D thermodynamic view of the atmosphere**, Fabien Gibert et.al., Paper: [http://arxiv.org/abs/2211.08765v1](http://arxiv.org/abs/2211.08765v1)
 - 2022-11-16, **Wireless Communication Using Metal Reflectors: Reflection Modelling and Experimental Verification**, Zhi Yu et.al., Paper: [http://arxiv.org/abs/2211.08626v1](http://arxiv.org/abs/2211.08626v1)
@@ -215,7 +215,7 @@
 
 - 2022-11-16, **Data Fusion for Multipath-Based SLAM**, Erik Leitinger et.al., Paper: [http://arxiv.org/abs/2211.09241v1](http://arxiv.org/abs/2211.09241v1)
 - 2022-11-16, **Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**, Hao Qu et.al., Paper: [http://arxiv.org/abs/2211.08904v1](http://arxiv.org/abs/2211.08904v1)
-- 2022-11-14, **Detecting Line Segments in Motion-blurred Images with Events**, Huai Yu et.al., Paper: [http://arxiv.org/abs/2211.07365v1](http://arxiv.org/abs/2211.07365v1), Code: **[https://github.com/lh9171338/FE-LSD](https://github.com/lh9171338/FE-LSD)**
+- 2022-11-20, **Detecting Line Segments in Motion-blurred Images with Events**, Huai Yu et.al., Paper: [http://arxiv.org/abs/2211.07365v2](http://arxiv.org/abs/2211.07365v2), Code: **[https://github.com/lh9171338/FE-LSD](https://github.com/lh9171338/FE-LSD)**
 - 2022-11-13, **Automatic Eye-in-Hand Calibration using EKF**, Aditya Ramakrishnan et.al., Paper: [http://arxiv.org/abs/2211.06881v1](http://arxiv.org/abs/2211.06881v1)
 - 2022-11-12, **Active View Planning for Visual SLAM in Outdoor Environments Based on Continuous Information Modeling**, Zhihao Wang et.al., Paper: [http://arxiv.org/abs/2211.06557v1](http://arxiv.org/abs/2211.06557v1)
 - 2022-11-11, **Multi-domain Cooperative SLAM: The Enabler for Integrated Sensing and Communications**, Jie Yang et.al., Paper: [http://arxiv.org/abs/2211.05982v1](http://arxiv.org/abs/2211.05982v1)
