@@ -4,6 +4,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-21**|**Timely Target Tracking in Cognitive Radar Networks**|William W. Howard et.al.|[2211.11587v1](http://arxiv.org/abs/2211.11587v1)|null|
+|**2022-11-21**|**5G PRS-Based Sensing: A Sensing Reference Signal Approach for Joint Sensing and Communication System**|Zhiqing Wei et.al.|[2211.11488v1](http://arxiv.org/abs/2211.11488v1)|null|
+|**2022-11-21**|**Sensing-Assisted Communication in Vehicular Networks with Intelligent Surface**|Kaitao Meng et.al.|[2211.11475v1](http://arxiv.org/abs/2211.11475v1)|null|
+|**2022-11-19**|**ISAC Meets SWIPT: Multi-functional Wireless Systems Integrating Sensing, Communication, and Powering**|Yilong Chen et.al.|[2211.10605v1](http://arxiv.org/abs/2211.10605v1)|null|
 |**2022-11-18**|**Deep learning based landslide density estimation on SAR data for rapid response**|Vanessa Boehm et.al.|[2211.10338v1](http://arxiv.org/abs/2211.10338v1)|null|
 |**2022-11-18**|**A Survey on Detection, Tracking, and Classification of Aerial Threats using Radars and Communications Systems**|Wahab Khawaja et.al.|[2211.10038v1](http://arxiv.org/abs/2211.10038v1)|null|
 |**2022-11-18**|**Automated turnkey microcomb for low-noise microwave synthesis**|Kunpeng Jia et.al.|[2211.10031v1](http://arxiv.org/abs/2211.10031v1)|null|
@@ -217,6 +221,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari et.al.|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
 |**2022-11-16**|**Data Fusion for Multipath-Based SLAM**|Erik Leitinger et.al.|[2211.09241v1](http://arxiv.org/abs/2211.09241v1)|null|
 |**2022-11-16**|**Self-supervised Egomotion and Depth Learning via Bi-directional Coarse-to-Fine Scale Recovery**|Hao Qu et.al.|[2211.08904v1](http://arxiv.org/abs/2211.08904v1)|null|
 |**2022-11-20**|**Detecting Line Segments in Motion-blurred Images with Events**|Huai Yu et.al.|[2211.07365v2](http://arxiv.org/abs/2211.07365v2)|**[link](https://github.com/lh9171338/FE-LSD)**|
