@@ -2,6 +2,9 @@
 
 ## Radar
 
+- 2022-11-23, **A Deep Learning-based Velocity Dealiasing Algorithm Derived from the WSR-88D Open Radar Product Generator**, Mark S. Veillette et.al., Paper: [http://arxiv.org/abs/2211.13181v1](http://arxiv.org/abs/2211.13181v1), Code: **[https://github.com/mit-ll/unet-vda](https://github.com/mit-ll/unet-vda)**
+- 2022-11-23, **Joint Secure Communication and Radar Beamforming: A Secrecy-Estimation Rate-Based Design**, Rong Wen et.al., Paper: [http://arxiv.org/abs/2211.12667v1](http://arxiv.org/abs/2211.12667v1)
+- 2022-11-22, **Radar Range Deception with Time-Modulated Scatterers**, V. Kozlov et.al., Paper: [http://arxiv.org/abs/2211.12608v1](http://arxiv.org/abs/2211.12608v1)
 - 2022-11-21, **Timely Target Tracking in Cognitive Radar Networks**, William W. Howard et.al., Paper: [http://arxiv.org/abs/2211.11587v1](http://arxiv.org/abs/2211.11587v1)
 - 2022-11-21, **5G PRS-Based Sensing: A Sensing Reference Signal Approach for Joint Sensing and Communication System**, Zhiqing Wei et.al., Paper: [http://arxiv.org/abs/2211.11488v1](http://arxiv.org/abs/2211.11488v1)
 - 2022-11-21, **Sensing-Assisted Communication in Vehicular Networks with Intelligent Surface**, Kaitao Meng et.al., Paper: [http://arxiv.org/abs/2211.11475v1](http://arxiv.org/abs/2211.11475v1)
@@ -217,6 +220,7 @@
 
 ## SLAM
 
+- 2022-11-23, **ActiveRMAP: Radiance Field for Active Mapping And Planning**, Huangying Zhan et.al., Paper: [http://arxiv.org/abs/2211.12656v1](http://arxiv.org/abs/2211.12656v1)
 - 2022-11-21, **Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**, David Ramirez et.al., Paper: [http://arxiv.org/abs/2211.11836v1](http://arxiv.org/abs/2211.11836v1)
 - 2022-11-21, **ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**, Mohammad Mahdi Johari et.al., Paper: [http://arxiv.org/abs/2211.11704v1](http://arxiv.org/abs/2211.11704v1)
 - 2022-11-16, **Data Fusion for Multipath-Based SLAM**, Erik Leitinger et.al., Paper: [http://arxiv.org/abs/2211.09241v1](http://arxiv.org/abs/2211.09241v1)
