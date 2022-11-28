@@ -2,6 +2,7 @@
 
 ## Radar
 
+- 2022-11-24, **Adaptive mixture approximation for target tracking in clutter**, Alessandro D'Ortenzio et.al., Paper: [http://arxiv.org/abs/2211.13624v1](http://arxiv.org/abs/2211.13624v1)
 - 2022-11-23, **A Deep Learning-based Velocity Dealiasing Algorithm Derived from the WSR-88D Open Radar Product Generator**, Mark S. Veillette et.al., Paper: [http://arxiv.org/abs/2211.13181v1](http://arxiv.org/abs/2211.13181v1), Code: **[https://github.com/mit-ll/unet-vda](https://github.com/mit-ll/unet-vda)**
 - 2022-11-23, **Joint Secure Communication and Radar Beamforming: A Secrecy-Estimation Rate-Based Design**, Rong Wen et.al., Paper: [http://arxiv.org/abs/2211.12667v1](http://arxiv.org/abs/2211.12667v1)
 - 2022-11-22, **Radar Range Deception with Time-Modulated Scatterers**, V. Kozlov et.al., Paper: [http://arxiv.org/abs/2211.12608v1](http://arxiv.org/abs/2211.12608v1)
