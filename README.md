@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-25**|**Underground Diagnosis Based on GPR and Learning in the Model Space**|Ao Chen et.al.|[2211.15480v1](http://arxiv.org/abs/2211.15480v1)|null|
+|**2022-11-28**|**Near-filed SAR Image Restoration with Deep Learning Inverse Technique: A Preliminary Study**|Xu Zhan et.al.|[2211.14990v1](http://arxiv.org/abs/2211.14990v1)|null|
+|**2022-11-28**|**Solving 3D Radar Imaging Inverse Problems with a Multi-cognition Task-oriented Framework**|Xu Zhan et.al.|[2211.14989v1](http://arxiv.org/abs/2211.14989v1)|null|
+|**2022-11-26**|**Profile-Guided Parallel Task Extraction and Execution for Domain Specific Heterogeneous SoC**|Liangliang Chang et.al.|[2211.14547v1](http://arxiv.org/abs/2211.14547v1)|null|
+|**2022-11-27**|**Sub-1ms Instinctual Interference Adaptive GaN LNA Front-End with Power and Linearity Tuning**|Jie Yang et.al.|[2211.14311v1](http://arxiv.org/abs/2211.14311v1)|null|
 |**2022-11-24**|**Adaptive mixture approximation for target tracking in clutter**|Alessandro D'Ortenzio et.al.|[2211.13624v1](http://arxiv.org/abs/2211.13624v1)|null|
 |**2022-11-23**|**A Deep Learning-based Velocity Dealiasing Algorithm Derived from the WSR-88D Open Radar Product Generator**|Mark S. Veillette et.al.|[2211.13181v1](http://arxiv.org/abs/2211.13181v1)|**[link](https://github.com/mit-ll/unet-vda)**|
 |**2022-11-23**|**Joint Secure Communication and Radar Beamforming: A Secrecy-Estimation Rate-Based Design**|Rong Wen et.al.|[2211.12667v1](http://arxiv.org/abs/2211.12667v1)|null|
@@ -225,6 +230,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-27**|**Development of a Modular Real-time Shared-control System for a Smart Wheelchair**|Vaishanth Ramaraj et.al.|[2211.14711v1](http://arxiv.org/abs/2211.14711v1)|null|
+|**2022-11-26**|**A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**|Jerred Chen et.al.|[2211.14432v1](http://arxiv.org/abs/2211.14432v1)|null|
 |**2022-11-23**|**ActiveRMAP: Radiance Field for Active Mapping And Planning**|Huangying Zhan et.al.|[2211.12656v1](http://arxiv.org/abs/2211.12656v1)|null|
 |**2022-11-21**|**Towards Live 3D Reconstruction from Wearable Video: An Evaluation of V-SLAM, NeRF, and Videogrammetry Techniques**|David Ramirez et.al.|[2211.11836v1](http://arxiv.org/abs/2211.11836v1)|null|
 |**2022-11-21**|**ESLAM: Efficient Dense SLAM System Based on Hybrid Representation of Signed Distance Fields**|Mohammad Mahdi Johari et.al.|[2211.11704v1](http://arxiv.org/abs/2211.11704v1)|null|
