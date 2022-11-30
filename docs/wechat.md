@@ -2,6 +2,10 @@
 
 ## Radar
 
+- 2022-11-29, **Extended Polarimetric Observations of Chaff using the WSR-88D Weather Radar Network**, James M. Kurdzo et.al., Paper: [http://arxiv.org/abs/2211.16417v1](http://arxiv.org/abs/2211.16417v1)
+- 2022-11-29, **MmWave Mapping and SLAM for 5G and Beyond**, Yu Ge et.al., Paper: [http://arxiv.org/abs/2211.16024v1](http://arxiv.org/abs/2211.16024v1)
+- 2022-11-29, **Shadow-Oriented Tracking Method for Multi-Target Tracking in Video-SAR**, Xiaochuan Ni et.al., Paper: [http://arxiv.org/abs/2211.15995v1](http://arxiv.org/abs/2211.15995v1)
+- 2022-11-29, **How Important are Good Method Names in Neural Code Generation? A Model Robustness Perspective**, Guang Yang et.al., Paper: [http://arxiv.org/abs/2211.15844v1](http://arxiv.org/abs/2211.15844v1)
 - 2022-11-25, **Underground Diagnosis Based on GPR and Learning in the Model Space**, Ao Chen et.al., Paper: [http://arxiv.org/abs/2211.15480v1](http://arxiv.org/abs/2211.15480v1)
 - 2022-11-28, **Near-filed SAR Image Restoration with Deep Learning Inverse Technique: A Preliminary Study**, Xu Zhan et.al., Paper: [http://arxiv.org/abs/2211.14990v1](http://arxiv.org/abs/2211.14990v1)
 - 2022-11-28, **Solving 3D Radar Imaging Inverse Problems with a Multi-cognition Task-oriented Framework**, Xu Zhan et.al., Paper: [http://arxiv.org/abs/2211.14989v1](http://arxiv.org/abs/2211.14989v1)
@@ -226,6 +230,8 @@
 
 ## SLAM
 
+- 2022-11-29, **PatchMatch-Stereo-Panorama, a fast dense reconstruction from 360° video images**, Hartmut Surmann et.al., Paper: [http://arxiv.org/abs/2211.16266v1](http://arxiv.org/abs/2211.16266v1), Code: **[https://github.com/roblabwh/patchmatch](https://github.com/roblabwh/patchmatch)**
+- 2022-11-29, **MmWave Mapping and SLAM for 5G and Beyond**, Yu Ge et.al., Paper: [http://arxiv.org/abs/2211.16024v1](http://arxiv.org/abs/2211.16024v1)
 - 2022-11-27, **Development of a Modular Real-time Shared-control System for a Smart Wheelchair**, Vaishanth Ramaraj et.al., Paper: [http://arxiv.org/abs/2211.14711v1](http://arxiv.org/abs/2211.14711v1)
 - 2022-11-26, **A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors**, Jerred Chen et.al., Paper: [http://arxiv.org/abs/2211.14432v1](http://arxiv.org/abs/2211.14432v1)
 - 2022-11-23, **ActiveRMAP: Radiance Field for Active Mapping And Planning**, Huangying Zhan et.al., Paper: [http://arxiv.org/abs/2211.12656v1](http://arxiv.org/abs/2211.12656v1)
